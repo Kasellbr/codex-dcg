@@ -1,0 +1,198 @@
+{
+ "version": 1,
+ "semaine": "2026-10-19",
+ "genere_le": "2026-10-24",
+ "jours": [
+  {
+   "date": "2026-10-19",
+   "jour": "Lundi",
+   "message": "Semaine de vacances : le programme commence le lundi 26 octobre.",
+   "seances": []
+  },
+  {
+   "date": "2026-10-20",
+   "jour": "Mardi",
+   "message": "Semaine de vacances : le programme commence le lundi 26 octobre.",
+   "seances": []
+  },
+  {
+   "date": "2026-10-21",
+   "jour": "Mercredi",
+   "message": "Semaine de vacances : le programme commence le lundi 26 octobre.",
+   "seances": []
+  },
+  {
+   "date": "2026-10-22",
+   "jour": "Jeudi",
+   "message": "Semaine de vacances : le programme commence le lundi 26 octobre.",
+   "seances": []
+  },
+  {
+   "date": "2026-10-23",
+   "jour": "Vendredi",
+   "message": "Semaine de vacances : le programme commence le lundi 26 octobre.",
+   "seances": []
+  },
+  {
+   "date": "2026-10-24",
+   "jour": "Samedi",
+   "message": "Semaine de vacances : le programme commence le lundi 26 octobre.",
+   "seances": []
+  },
+  {
+   "date": "2026-10-25",
+   "jour": "Dimanche",
+   "message": "Séance exceptionnelle : on apprend à bien travailler avant de commencer lundi.",
+   "seances": [
+    {
+     "id": "2026-10-25-pre",
+     "heure": "09:00-11:30",
+     "ue": null,
+     "type": "Cours",
+     "titre": "Pré-session · Mode d'emploi et méthodes de travail",
+     "chapId": null,
+     "notion": "https://app.notion.com/p/403537c42d4b818cbcd8f049cb2cdc3e",
+     "video": null,
+     "manuel": null,
+     "resume": "## L'essentiel\n- La boucle : Claude prépare le dimanche, tu travailles, tu notes **Score + Fait + Notes** après chaque séance.\n- Méthodes qui marchent : **se tester** (rappel actif), **espacer** les révisions, **mélanger**, **expliquer simplement** (Feynman), **blocs de concentration**, **carnet d'erreurs**.\n- À arrêter : relire, surligner, recopier, bachoter la veille.\n- Séance type : vidéo → cours + manuel → pause + flashcards → examen sans notes → correction.",
+     "flashcards": [
+      {
+       "id": "fc-2026-10-25-pre-01",
+       "q": "Les deux méthodes les plus efficaces pour retenir ?",
+       "a": "Se tester (rappel actif) et espacer les révisions (répétition espacée)."
+      },
+      {
+       "id": "fc-2026-10-25-pre-02",
+       "q": "Pourquoi relire est-il peu efficace ?",
+       "a": "Illusion de maîtrise : reconnaître n'est pas savoir retrouver seul."
+      },
+      {
+       "id": "fc-2026-10-25-pre-03",
+       "q": "Intervalles de révision du site ?",
+       "a": "J+1, J+2, J+4, J+7, J+14, J+30."
+      },
+      {
+       "id": "fc-2026-10-25-pre-04",
+       "q": "La méthode Feynman ?",
+       "a": "Expliquer simplement, à voix haute et sans notes : les blocages montrent les trous."
+      },
+      {
+       "id": "fc-2026-10-25-pre-05",
+       "q": "Pourquoi mélanger les chapitres en révision ?",
+       "a": "Pour apprendre à reconnaître quelle méthode utiliser, comme à l'examen."
+      },
+      {
+       "id": "fc-2026-10-25-pre-06",
+       "q": "Que fais-tu dans Notion après chaque séance ?",
+       "a": "Score sur 100, case Fait, une ligne dans Notes."
+      },
+      {
+       "id": "fc-2026-10-25-pre-07",
+       "q": "Score inférieur à 60 : que se passe-t-il ?",
+       "a": "La notion faible revient dans une séance suivante ou le samedi."
+      },
+      {
+       "id": "fc-2026-10-25-pre-08",
+       "q": "Un rendez-vous jeudi matin : que fais-tu ?",
+       "a": "Tu l'ajoutes dans la base Indisponibilités : la séance est déplacée."
+      },
+      {
+       "id": "fc-2026-10-25-pre-09",
+       "q": "Les 3 colonnes du carnet d'erreurs ?",
+       "a": "Erreur · Pourquoi · Règle correcte."
+      },
+      {
+       "id": "fc-2026-10-25-pre-10",
+       "q": "Les 5 temps d'un cas pratique de droit ?",
+       "a": "Faits → problème juridique → règle → application → conclusion."
+      }
+     ],
+     "qcm": [
+      {
+       "question": "Après avoir lu une partie du cours, le plus efficace est de :",
+       "options": [
+        "la relire",
+        "la surligner",
+        "fermer et écrire de mémoire",
+        "la recopier au propre"
+       ],
+       "correctIndex": 2,
+       "explication": "Rappel actif : se tester renforce la mémoire."
+      },
+      {
+       "question": "La répétition espacée consiste à :",
+       "options": [
+        "tout réviser la veille",
+        "revoir à intervalles de plus en plus longs",
+        "apprendre un chapitre par cœur d'un coup",
+        "réviser seulement le samedi"
+       ],
+       "correctIndex": 1,
+       "explication": "Courbe de l'oubli : on revoit juste avant d'oublier."
+      },
+      {
+       "question": "En relisant, tu as l'impression de « tout connaître ». C'est :",
+       "options": [
+        "une preuve de maîtrise",
+        "souvent une illusion de reconnaissance",
+        "le signe qu'il faut arrêter"
+       ],
+       "correctIndex": 1,
+       "explication": "Reconnaître n'est pas retrouver seul."
+      },
+      {
+       "question": "Tu as 12 minutes dans le tram :",
+       "options": [
+        "commencer une nouvelle vidéo",
+        "faire les cartes à revoir sur le site",
+        "lire un nouveau chapitre"
+       ],
+       "correctIndex": 1,
+       "explication": "Les petits créneaux servent à la répétition espacée."
+      },
+      {
+       "question": "Tu obtiens 52/100 à une séance :",
+       "options": [
+        "tu ne notes rien",
+        "tu notes le score : la notion reviendra",
+        "tu refais tout le chapitre jusqu'à minuit"
+       ],
+       "correctIndex": 1,
+       "explication": "Le score permet à Claude d'adapter la suite."
+      },
+      {
+       "question": "Rendez-vous médical jeudi à 9 h :",
+       "options": [
+        "tu sautes la séance",
+        "tu l'ajoutes dans Indisponibilités",
+        "tu fais la séance à 23 h"
+       ],
+       "correctIndex": 1,
+       "explication": "La séance est déplacée automatiquement le dimanche."
+      },
+      {
+       "question": "La méthode Feynman, c'est :",
+       "options": [
+        "lire à voix haute",
+        "expliquer simplement sans notes pour trouver ses trous",
+        "résumer en 10 pages"
+       ],
+       "correctIndex": 1,
+       "explication": ""
+      },
+      {
+       "question": "Pour progresser en anglais :",
+       "options": [
+        "3 h le dimanche",
+        "30 min chaque jour + 2 cours par semaine",
+        "uniquement des séries"
+       ],
+       "correctIndex": 1,
+       "explication": "La régularité bat la quantité."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

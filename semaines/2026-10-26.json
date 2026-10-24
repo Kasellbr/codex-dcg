@@ -1,0 +1,1028 @@
+{
+ "version": 1,
+ "semaine": "2026-10-26",
+ "genere_le": "2026-10-24",
+ "jours": [
+  {
+   "date": "2026-10-26",
+   "jour": "Lundi",
+   "message": "C'est parti ! Vidéo, cours Notion et ton manuel Vuibert à côté.",
+   "seances": [
+    {
+     "id": "2026-10-26-ue9",
+     "heure": "08:30-11:00",
+     "ue": "UE9",
+     "type": "Cours",
+     "titre": "UE 9 · Définir la comptabilité (1/1)",
+     "chapId": "ue9-1",
+     "notion": "https://app.notion.com/p/3fc537c42d4b812bbacce6d84bde996d",
+     "video": "https://www.youtube.com/watch?v=sUmrENCN5TQ",
+     "manuel": "Vuibert DCG 9, chap. 1 : QCM 1-6, 10, 11 p. 22-23 (10 min), ex. 5 Meriem p. 27 (30 min)",
+     "resume": "## L'essentiel\n- La comptabilité **saisit, classe, enregistre** les opérations chiffrées et présente des états donnant une **image fidèle** (PCG, art. 121-1).\n- Trois dimensions : **technique**, **juridique**, **économique**.\n- Six rôles : preuve, information, gestion, base de calcul, contrôle, comptabilité nationale.\n- C'est une **branche du droit**, liée au droit fiscal, des sociétés, social et pénal.",
+     "flashcards": [
+      {
+       "id": "fc-2026-10-26-ue9-01",
+       "q": "Définition de la comptabilité (PCG, art. 121-1) ?",
+       "a": "Un système d'organisation de l'information financière : saisir, classer, enregistrer des données chiffrées et présenter des états donnant une image fidèle du patrimoine, de la situation financière et du résultat à la clôture."
+      },
+      {
+       "id": "fc-2026-10-26-ue9-02",
+       "q": "Les trois dimensions de la comptabilité ?",
+       "a": "Technique, juridique, économique."
+      },
+      {
+       "id": "fc-2026-10-26-ue9-03",
+       "q": "Que s'est-il passé en 1494 ?",
+       "a": "Luca Pacioli décrit la partie double."
+      },
+      {
+       "id": "fc-2026-10-26-ue9-04",
+       "q": "Qu'impose l'ordonnance de Colbert de 1673 ?",
+       "a": "La tenue d'un livre-journal par les marchands."
+      },
+      {
+       "id": "fc-2026-10-26-ue9-05",
+       "q": "Quel texte oblige le commerçant à tenir une comptabilité ?",
+       "a": "Le Code de commerce, art. L123-12."
+      },
+      {
+       "id": "fc-2026-10-26-ue9-06",
+       "q": "Cite quatre rôles de la comptabilité.",
+       "a": "Preuve, information, gestion, base de calcul (aussi : contrôle, comptabilité nationale)."
+      },
+      {
+       "id": "fc-2026-10-26-ue9-07",
+       "q": "Que cherche la banque dans les comptes ?",
+       "a": "La solvabilité : la capacité à rembourser."
+      },
+      {
+       "id": "fc-2026-10-26-ue9-08",
+       "q": "Lien comptabilité / droit fiscal ?",
+       "a": "Le résultat fiscal part du résultat comptable, corrigé."
+      },
+      {
+       "id": "fc-2026-10-26-ue9-09",
+       "q": "Comptabilité générale ou de gestion : laquelle est obligatoire ?",
+       "a": "La comptabilité générale."
+      }
+     ],
+     "qcm": [
+      {
+       "question": "La comptabilité donne une image fidèle…",
+       "options": [
+        "du chiffre d'affaires uniquement",
+        "du patrimoine, de la situation financière et du résultat",
+        "de la valeur boursière"
+       ],
+       "correctIndex": 1,
+       "explication": "C'est la définition du PCG, art. 121-1."
+      },
+      {
+       "question": "La partie double a été décrite dans un livre imprimé par :",
+       "options": [
+        "Colbert",
+        "Luca Pacioli",
+        "Napoléon"
+       ],
+       "correctIndex": 1,
+       "explication": "Pacioli, en 1494."
+      },
+      {
+       "question": "Une comptabilité régulièrement tenue peut servir de preuve :",
+       "options": [
+        "entre commerçants",
+        "seulement contre l'État",
+        "jamais"
+       ],
+       "correctIndex": 0,
+       "explication": "Code de commerce, art. L123-23."
+      },
+      {
+       "question": "Qui s'intéresse surtout à la solvabilité ?",
+       "options": [
+        "le client",
+        "la banque",
+        "l'INSEE"
+       ],
+       "correctIndex": 1,
+       "explication": "Le prêteur veut savoir s'il sera remboursé."
+      },
+      {
+       "question": "Le PCG actuel résulte du règlement ANC :",
+       "options": [
+        "n° 99-03",
+        "n° 2014-03",
+        "n° 1947-01"
+       ],
+       "correctIndex": 1,
+       "explication": "Règlement ANC n° 2014-03."
+      },
+      {
+       "question": "La comptabilité de gestion est :",
+       "options": [
+        "obligatoire",
+        "facultative",
+        "interdite aux PME"
+       ],
+       "correctIndex": 1,
+       "explication": "Elle est interne et facultative."
+      },
+      {
+       "question": "Le résultat fiscal est :",
+       "options": [
+        "indépendant du résultat comptable",
+        "calculé à partir du résultat comptable",
+        "égal au chiffre d'affaires"
+       ],
+       "correctIndex": 1,
+       "explication": "On part du résultat comptable, puis on corrige."
+      },
+      {
+       "question": "La comptabilité nationale est :",
+       "options": [
+        "microéconomique",
+        "macroéconomique",
+        "la comptabilité de l'État uniquement"
+       ],
+       "correctIndex": 1,
+       "explication": "Elle agrège toute l'économie (INSEE)."
+      }
+     ]
+    },
+    {
+     "id": "2026-10-26-aq",
+     "heure": "11:15-11:45",
+     "ue": "UE12",
+     "type": "Anglais quotidien",
+     "titre": "Anglais quotidien · Test de niveau et bases (article + vocabulaire)",
+     "chapId": "ue12-0",
+     "notion": "https://app.notion.com/p/3fc537c42d4b81b5a380e888ec7bb727",
+     "video": null,
+     "manuel": null,
+     "resume": "## What does an accountant actually do?\n- Lis l'article dans Notion deux fois, dont une à voix haute.\n- Apprends les 8 mots ci-dessous.\n- Réponds aux questions et écris ta phrase.",
+     "flashcards": [
+      {
+       "id": "fc-2026-10-26-aq-01",
+       "q": "une facture",
+       "a": "an invoice"
+      },
+      {
+       "id": "fc-2026-10-26-aq-02",
+       "q": "la tenue de la comptabilité",
+       "a": "bookkeeping"
+      },
+      {
+       "id": "fc-2026-10-26-aq-03",
+       "q": "l'exercice comptable",
+       "a": "the financial year"
+      },
+      {
+       "id": "fc-2026-10-26-aq-04",
+       "q": "les comptes annuels",
+       "a": "financial statements"
+      },
+      {
+       "id": "fc-2026-10-26-aq-05",
+       "q": "le bilan",
+       "a": "the balance sheet"
+      },
+      {
+       "id": "fc-2026-10-26-aq-06",
+       "q": "le compte de résultat",
+       "a": "the income statement / P&L"
+      },
+      {
+       "id": "fc-2026-10-26-aq-07",
+       "q": "une déclaration fiscale",
+       "a": "a tax return"
+      },
+      {
+       "id": "fc-2026-10-26-aq-08",
+       "q": "respecter une échéance",
+       "a": "to meet a deadline"
+      }
+     ],
+     "qcm": []
+    }
+   ]
+  },
+  {
+   "date": "2026-10-27",
+   "jour": "Mardi",
+   "message": "Test d'anglais à 11 h 15 : sans dictionnaire.",
+   "seances": [
+    {
+     "id": "2026-10-27-ue1",
+     "heure": "08:30-11:00",
+     "ue": "UE1",
+     "type": "Cours",
+     "titre": "UE 1 · Règle de droit et sources (1/4)",
+     "chapId": "ue1-1",
+     "notion": "https://app.notion.com/p/3fc537c42d4b815ba39dccc646fc62b3",
+     "video": "https://www.youtube.com/watch?v=3SCkMsINGBI",
+     "manuel": "Vuibert DCG 1, chap. 1 (p. 4-21) : QCM 1-8 p. 12 (10 min) + chap. 2 : sources écrites",
+     "resume": "## L'essentiel\n- Règle de droit : **générale, abstraite, obligatoire, coercitive** (sanction étatique).\n- Droit et morale diffèrent par l'**origine**, le **but** et surtout la **sanction**.\n- Sources directes : **bloc de constitutionnalité**, **international et UE** (règlement direct, directive à transposer), **légalité** (lois, ordonnances), **réglementaire** (décrets, arrêtés).",
+     "flashcards": [
+      {
+       "id": "fc-2026-10-27-ue1-01",
+       "q": "Définis la règle de droit.",
+       "a": "Une règle de conduite sociale, générale et abstraite, obligatoire, dont le respect est assuré par une sanction étatique."
+      },
+      {
+       "id": "fc-2026-10-27-ue1-02",
+       "q": "Les 4 caractères de la règle de droit ?",
+       "a": "Générale, abstraite, obligatoire, coercitive."
+      },
+      {
+       "id": "fc-2026-10-27-ue1-03",
+       "q": "Critère décisif entre droit et morale ?",
+       "a": "La sanction étatique."
+      },
+      {
+       "id": "fc-2026-10-27-ue1-04",
+       "q": "Un exemple de règle de droit moralement neutre ?",
+       "a": "Rouler à droite."
+      },
+      {
+       "id": "fc-2026-10-27-ue1-05",
+       "q": "Que contient le bloc de constitutionnalité ?",
+       "a": "Constitution de 1958, DDHC de 1789, Préambule de 1946, Charte de l'environnement de 2004."
+      },
+      {
+       "id": "fc-2026-10-27-ue1-06",
+       "q": "Règlement européen ou directive : lequel s'applique directement ?",
+       "a": "Le règlement ; la directive doit être transposée."
+      },
+      {
+       "id": "fc-2026-10-27-ue1-07",
+       "q": "Quel article de la Constitution place les traités au-dessus des lois ?",
+       "a": "L'article 55."
+      },
+      {
+       "id": "fc-2026-10-27-ue1-08",
+       "q": "Qui vote la loi ? Quel article fixe son domaine ?",
+       "a": "Le Parlement ; l'article 34."
+      },
+      {
+       "id": "fc-2026-10-27-ue1-09",
+       "q": "Qu'est-ce qu'une ordonnance (art. 38) ?",
+       "a": "Un texte du Gouvernement, habilité par le Parlement, qui a valeur de loi une fois ratifié."
+      },
+      {
+       "id": "fc-2026-10-27-ue1-10",
+       "q": "Décret ou arrêté : qui les prend ?",
+       "a": "Décret : Premier ministre ou Président. Arrêté : ministre, préfet ou maire."
+      }
+     ],
+     "qcm": [
+      {
+       "question": "Une règle qui vise « M. Dupont » nommément est :",
+       "options": [
+        "une règle de droit générale",
+        "une décision individuelle",
+        "une directive"
+       ],
+       "correctIndex": 1,
+       "explication": "La règle de droit est générale et impersonnelle."
+      },
+      {
+       "question": "La sanction de la règle morale est :",
+       "options": [
+        "une amende",
+        "le remords ou la désapprobation",
+        "la nullité"
+       ],
+       "correctIndex": 1,
+       "explication": "Pas de sanction étatique pour la morale."
+      },
+      {
+       "question": "La DDHC de 1789 fait partie :",
+       "options": [
+        "du bloc légal",
+        "du bloc de constitutionnalité",
+        "du bloc réglementaire"
+       ],
+       "correctIndex": 1,
+       "explication": "Elle est visée par le Préambule de 1958."
+      },
+      {
+       "question": "Un règlement européen :",
+       "options": [
+        "doit être transposé",
+        "s'applique directement dans tous les États",
+        "ne vise que les institutions"
+       ],
+       "correctIndex": 1,
+       "explication": "Contrairement à la directive."
+      },
+      {
+       "question": "La loi est votée par :",
+       "options": [
+        "le Gouvernement",
+        "le Parlement",
+        "le Conseil constitutionnel"
+       ],
+       "correctIndex": 1,
+       "explication": "Assemblée nationale et Sénat."
+      },
+      {
+       "question": "Un arrêté municipal est pris par :",
+       "options": [
+        "le préfet",
+        "le maire",
+        "le Premier ministre"
+       ],
+       "correctIndex": 1,
+       "explication": "Bloc réglementaire local."
+      },
+      {
+       "question": "L'ordonnance de l'article 38 est prise par :",
+       "options": [
+        "le Parlement",
+        "le Gouvernement habilité par le Parlement",
+        "un juge"
+       ],
+       "correctIndex": 1,
+       "explication": "Elle a valeur de loi après ratification."
+      },
+      {
+       "question": "« Ne pas porter secours à une personne en danger » est :",
+       "options": [
+        "seulement moral",
+        "seulement juridique",
+        "à la fois moral et juridique"
+       ],
+       "correctIndex": 2,
+       "explication": "Le Code pénal le sanctionne aussi."
+      }
+     ]
+    },
+    {
+     "id": "2026-10-27-ca",
+     "heure": "11:15-12:15",
+     "ue": "UE12",
+     "type": "Cours d'anglais",
+     "titre": "Cours d'anglais · Test de niveau et bases (1/2)",
+     "chapId": "ue12-0",
+     "notion": "https://app.notion.com/p/3fc537c42d4b81c29ba6d037fb0d8380",
+     "video": null,
+     "manuel": null,
+     "resume": "## Test de niveau (1/2)\n- 4 parties : grammaire et vocabulaire, lecture, e-mail, auto-évaluation.\n- **Sans dictionnaire ni traducteur.**\n- Envoie ensuite à Claude tes scores A et B, ton e-mail et tes coches.",
+     "flashcards": [],
+     "qcm": []
+    }
+   ]
+  },
+  {
+   "date": "2026-10-28",
+   "jour": "Mercredi",
+   "message": "On découvre les métiers du chiffre.",
+   "seances": [
+    {
+     "id": "2026-10-28-ue9",
+     "heure": "08:30-11:00",
+     "ue": "UE9",
+     "type": "Cours",
+     "titre": "UE 9 · Profession comptable (1/2)",
+     "chapId": "ue9-1",
+     "notion": "https://app.notion.com/p/3fc537c42d4b81e9b585de41d6290995",
+     "video": "https://www.youtube.com/watch?v=9KjtYAnh1l4",
+     "manuel": "Vuibert DCG 9, chap. 1 : QCM 7-9, 12, 13, 15 p. 22-23 (10 min), ex. 3 Alexie p. 26 (15 min)",
+     "resume": "## L'essentiel\n- **Expert-comptable** : DEC + inscription à l'Ordre, monopole de la tenue des comptes des autres ; missions comptables, fiscales, sociales, conseil, durabilité.\n- **CAC** : certifie les comptes (régularité, sincérité, image fidèle), nommé pour 6 exercices, **indépendant**.\n- Tutelles : Économie (experts-comptables), Justice (CAC).\n- Organisations : Ordre (CNOEC + CROEC), CNCC, **H2A** (ex-H3C).",
+     "flashcards": [
+      {
+       "id": "fc-2026-10-28-ue9-01",
+       "q": "Diplôme pour être expert-comptable ?",
+       "a": "Le DEC, puis l'inscription au tableau de l'Ordre."
+      },
+      {
+       "id": "fc-2026-10-28-ue9-02",
+       "q": "Texte fondateur de l'Ordre des experts-comptables ?",
+       "a": "L'ordonnance n° 45-2138 du 19 septembre 1945."
+      },
+      {
+       "id": "fc-2026-10-28-ue9-03",
+       "q": "Monopole de l'expert-comptable ?",
+       "a": "Tenir, centraliser, surveiller, redresser ou consolider à titre habituel la comptabilité d'entreprises sans contrat de travail."
+      },
+      {
+       "id": "fc-2026-10-28-ue9-04",
+       "q": "Mission légale du CAC ?",
+       "a": "Certifier que les comptes sont réguliers, sincères et donnent une image fidèle."
+      },
+      {
+       "id": "fc-2026-10-28-ue9-05",
+       "q": "Durée du mandat du CAC ?",
+       "a": "Six exercices."
+      },
+      {
+       "id": "fc-2026-10-28-ue9-06",
+       "q": "Tutelles des experts-comptables et des CAC ?",
+       "a": "Économie et Finances ; Justice."
+      },
+      {
+       "id": "fc-2026-10-28-ue9-07",
+       "q": "Que veut dire H2A ?",
+       "a": "Haute autorité de l'audit, régulateur des CAC (ex-H3C, 2024)."
+      },
+      {
+       "id": "fc-2026-10-28-ue9-08",
+       "q": "Principe clé de la comptabilité publique ?",
+       "a": "Séparation de l'ordonnateur et du comptable."
+      }
+     ],
+     "qcm": [
+      {
+       "question": "Le CAC peut-il tenir la comptabilité de la société qu'il certifie ?",
+       "options": [
+        "oui",
+        "non",
+        "oui si l'AG l'accepte"
+       ],
+       "correctIndex": 1,
+       "explication": "Il se contrôlerait lui-même : atteinte à l'indépendance."
+      },
+      {
+       "question": "Le régulateur public des CAC est :",
+       "options": [
+        "la CNCC",
+        "la H2A",
+        "l'Ordre"
+       ],
+       "correctIndex": 1,
+       "explication": "La Haute autorité de l'audit."
+      },
+      {
+       "question": "L'expert-comptable est sous la tutelle du ministère :",
+       "options": [
+        "de la Justice",
+        "de l'Économie et des Finances",
+        "du Travail"
+       ],
+       "correctIndex": 1,
+       "explication": ""
+      },
+      {
+       "question": "Le DAF salarié d'une entreprise :",
+       "options": [
+        "doit être inscrit à l'Ordre",
+        "n'a pas à être inscrit",
+        "doit être CAC"
+       ],
+       "correctIndex": 1,
+       "explication": "Il a un contrat de travail : hors monopole."
+      },
+      {
+       "question": "Le CAC est nommé en principe pour :",
+       "options": [
+        "3 exercices",
+        "6 exercices",
+        "10 exercices"
+       ],
+       "correctIndex": 1,
+       "explication": ""
+      },
+      {
+       "question": "Le tableau de l'Ordre est tenu par :",
+       "options": [
+        "les conseils régionaux de l'Ordre",
+        "la H2A",
+        "le greffe"
+       ],
+       "correctIndex": 0,
+       "explication": ""
+      },
+      {
+       "question": "Dans une commune, qui décide la dépense ?",
+       "options": [
+        "le comptable public",
+        "l'ordonnateur",
+        "le CAC"
+       ],
+       "correctIndex": 1,
+       "explication": "Le comptable vérifie et paie."
+      },
+      {
+       "question": "Une mission de présentation des comptes est faite par :",
+       "options": [
+        "l'expert-comptable",
+        "le CAC",
+        "le comptable public"
+       ],
+       "correctIndex": 0,
+       "explication": ""
+      }
+     ]
+    },
+    {
+     "id": "2026-10-28-aq",
+     "heure": "11:15-11:45",
+     "ue": "UE12",
+     "type": "Anglais quotidien",
+     "titre": "Anglais quotidien · Test de niveau et bases (article + vocabulaire)",
+     "chapId": "ue12-0",
+     "notion": "https://app.notion.com/p/3fc537c42d4b8132b893cab99c69c212",
+     "video": null,
+     "manuel": null,
+     "resume": "## Meet the profession\n- Lis l'article dans Notion deux fois, dont une à voix haute.\n- Apprends les 8 mots ci-dessous.\n- Réponds aux questions et écris ta phrase.",
+     "flashcards": [
+      {
+       "id": "fc-2026-10-28-aq-01",
+       "q": "un expert-comptable (UK)",
+       "a": "a chartered accountant"
+      },
+      {
+       "id": "fc-2026-10-28-aq-02",
+       "q": "un cabinet d'expertise comptable",
+       "a": "an accounting firm"
+      },
+      {
+       "id": "fc-2026-10-28-aq-03",
+       "q": "un associé (cabinet)",
+       "a": "a partner"
+      },
+      {
+       "id": "fc-2026-10-28-aq-04",
+       "q": "un commissaire aux comptes",
+       "a": "a statutory auditor"
+      },
+      {
+       "id": "fc-2026-10-28-aq-05",
+       "q": "l'indépendance",
+       "a": "independence"
+      },
+      {
+       "id": "fc-2026-10-28-aq-06",
+       "q": "l'éthique, la déontologie",
+       "a": "ethics"
+      },
+      {
+       "id": "fc-2026-10-28-aq-07",
+       "q": "le secret professionnel",
+       "a": "confidentiality"
+      },
+      {
+       "id": "fc-2026-10-28-aq-08",
+       "q": "diplômé, habilité",
+       "a": "qualified"
+      }
+     ],
+     "qcm": []
+    }
+   ]
+  },
+  {
+   "date": "2026-10-29",
+   "jour": "Jeudi",
+   "message": "Oral d'anglais avec Claude dans le chat.",
+   "seances": [
+    {
+     "id": "2026-10-29-ue9",
+     "heure": "08:30-11:00",
+     "ue": "UE9",
+     "type": "Exercices",
+     "titre": "UE 9 · Profession comptable (2/2)",
+     "chapId": "ue9-1",
+     "notion": "https://app.notion.com/p/3fc537c42d4b81ca9dc0ff62ae4f2d01",
+     "video": "https://www.youtube.com/watch?v=9KjtYAnh1l4",
+     "manuel": "Vuibert DCG 9, chap. 1 : cas guidé SARL STI p. 23-25, ex. 1-2 p. 25-26, QCM 14",
+     "resume": "## L'essentiel\n- Trois responsabilités : **civile** (réparer), **pénale** (être puni), **disciplinaire** (sanction de la profession).\n- Principes : intégrité, indépendance, objectivité, compétence, **secret professionnel**, absence de conflit d'intérêts, confraternité.\n- Méthode d'un cas : faits → problème → règle → application → conclusion.",
+     "flashcards": [
+      {
+       "id": "fc-2026-10-29-ue9-01",
+       "q": "Trois types de responsabilité d'un professionnel ?",
+       "a": "Civile, pénale, disciplinaire."
+      },
+      {
+       "id": "fc-2026-10-29-ue9-02",
+       "q": "Qui sanctionne un CAC ? un expert-comptable ?",
+       "a": "La H2A ; les chambres de discipline de l'Ordre."
+      },
+      {
+       "id": "fc-2026-10-29-ue9-03",
+       "q": "Éthique ou déontologie : laquelle est écrite et sanctionnée ?",
+       "a": "La déontologie."
+      },
+      {
+       "id": "fc-2026-10-29-ue9-04",
+       "q": "Principe n° 1 du CAC ?",
+       "a": "L'indépendance."
+      },
+      {
+       "id": "fc-2026-10-29-ue9-05",
+       "q": "Un stagiaire est-il tenu au secret professionnel ?",
+       "a": "Oui, comme tout collaborateur du cabinet."
+      },
+      {
+       "id": "fc-2026-10-29-ue9-06",
+       "q": "Une limite au secret professionnel ?",
+       "a": "La déclaration de soupçon à Tracfin."
+      },
+      {
+       "id": "fc-2026-10-29-ue9-07",
+       "q": "Les 5 étapes d'un cas de déontologie ?",
+       "a": "Faits, problème, règle, application, conclusion."
+      }
+     ],
+     "qcm": [
+      {
+       "question": "Verser des dommages-intérêts relève de la responsabilité :",
+       "options": [
+        "pénale",
+        "civile",
+        "disciplinaire"
+       ],
+       "correctIndex": 1,
+       "explication": ""
+      },
+      {
+       "question": "La radiation du tableau de l'Ordre est une sanction :",
+       "options": [
+        "pénale",
+        "civile",
+        "disciplinaire"
+       ],
+       "correctIndex": 2,
+       "explication": ""
+      },
+      {
+       "question": "Révéler le résultat d'un client à un tiers viole :",
+       "options": [
+        "la confraternité",
+        "le secret professionnel",
+        "la compétence"
+       ],
+       "correctIndex": 1,
+       "explication": ""
+      },
+      {
+       "question": "L'assurance RC professionnelle de l'expert-comptable est :",
+       "options": [
+        "facultative",
+        "obligatoire",
+        "interdite"
+       ],
+       "correctIndex": 1,
+       "explication": ""
+      },
+      {
+       "question": "Depuis 2023, le comptable public relève :",
+       "options": [
+        "du régime de responsabilité des gestionnaires publics",
+        "de la H2A",
+        "de l'Ordre"
+       ],
+       "correctIndex": 0,
+       "explication": "Jugé par la Cour des comptes."
+      },
+      {
+       "question": "L'éthique est :",
+       "options": [
+        "un code écrit sanctionné",
+        "une réflexion personnelle sur ce qui est juste",
+        "une loi"
+       ],
+       "correctIndex": 1,
+       "explication": ""
+      }
+     ]
+    },
+    {
+     "id": "2026-10-29-ca",
+     "heure": "11:15-12:15",
+     "ue": "UE12",
+     "type": "Cours d'anglais",
+     "titre": "Cours d'anglais · Test de niveau et bases (2/2)",
+     "chapId": "ue12-0",
+     "notion": "https://app.notion.com/p/3fc537c42d4b8154bc82d9e463d754d8",
+     "video": null,
+     "manuel": null,
+     "resume": "## Test de niveau (2/2)\n- Écoute (BBC 6 Minute English) et oral avec Claude dans le chat.\n- Correction de ton e-mail.\n- Mini-cours : **present perfect** (lien avec maintenant) ou **past simple** (moment terminé).",
+     "flashcards": [
+      {
+       "id": "fc-2026-10-29-ca-01",
+       "q": "J'habite à Montpellier depuis 2024.",
+       "a": "I have lived in Montpellier since 2024."
+      },
+      {
+       "id": "fc-2026-10-29-ca-02",
+       "q": "J'ai fini hier.",
+       "a": "I finished yesterday."
+      },
+      {
+       "id": "fc-2026-10-29-ca-03",
+       "q": "Avez-vous déjà fini le rapprochement bancaire ?",
+       "a": "Have you finished the bank reconciliation yet?"
+      },
+      {
+       "id": "fc-2026-10-29-ca-04",
+       "q": "since ou for + une durée ?",
+       "a": "for (for two years) ; since + point de départ (since Monday)."
+      }
+     ],
+     "qcm": [
+      {
+       "question": "We ___ the payment last Friday.",
+       "options": [
+        "have received",
+        "received",
+        "receive",
+        "are receiving"
+       ],
+       "correctIndex": 1,
+       "explication": "Moment précis terminé : past simple."
+      },
+      {
+       "question": "Prices ___ by 5% since January.",
+       "options": [
+        "rose",
+        "have risen",
+        "rise",
+        "are rising"
+       ],
+       "correctIndex": 1,
+       "explication": "since : present perfect."
+      },
+      {
+       "question": "I ___ you the file.",
+       "options": [
+        "just sent",
+        "have just sent",
+        "just send",
+        "am just sending"
+       ],
+       "correctIndex": 1,
+       "explication": "just : present perfect."
+      },
+      {
+       "question": "When ___ your studies?",
+       "options": [
+        "have you started",
+        "did you start",
+        "you started",
+        "do you started"
+       ],
+       "correctIndex": 1,
+       "explication": "Question sur un moment précis : past simple."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-10-30",
+   "jour": "Vendredi",
+   "message": "Dernière ligne droite de la semaine.",
+   "seances": [
+    {
+     "id": "2026-10-30-ue1",
+     "heure": "08:30-11:00",
+     "ue": "UE1",
+     "type": "Exercices",
+     "titre": "UE 1 · Règle de droit et sources (2/4)",
+     "chapId": "ue1-1",
+     "notion": "https://app.notion.com/p/3fc537c42d4b81999ad2de528f0148a2",
+     "video": "https://www.youtube.com/watch?v=3SCkMsINGBI",
+     "manuel": "Vuibert DCG 1, chap. 2 (p. 22-41) : sources indirectes, loi impérative et supplétive",
+     "resume": "## L'essentiel\n- Sources indirectes : **jurisprudence** (art. 4 et 5 du Code civil), **usages professionnels**, **doctrine** (sans force obligatoire).\n- **Loi impérative** : on ne peut pas l'écarter (ex. SMIC). **Loi supplétive** : s'applique à défaut d'accord (ex. lieu de paiement).\n- Méthode : règle → qualification → application → conclusion.",
+     "flashcards": [
+      {
+       "id": "fc-2026-10-30-ue1-01",
+       "q": "Définis la jurisprudence.",
+       "a": "L'ensemble des décisions de justice et l'interprétation habituelle des juges."
+      },
+      {
+       "id": "fc-2026-10-30-ue1-02",
+       "q": "Articles 4 et 5 du Code civil ?",
+       "a": "Art. 4 : pas de déni de justice. Art. 5 : pas d'arrêts de règlement."
+      },
+      {
+       "id": "fc-2026-10-30-ue1-03",
+       "q": "Qu'est-ce qu'un revirement de jurisprudence ?",
+       "a": "Un changement d'interprétation, surtout par la Cour de cassation."
+      },
+      {
+       "id": "fc-2026-10-30-ue1-04",
+       "q": "Deux éléments d'un usage ?",
+       "a": "Une pratique répétée + le sentiment qu'elle est obligatoire."
+      },
+      {
+       "id": "fc-2026-10-30-ue1-05",
+       "q": "La doctrine est-elle obligatoire ?",
+       "a": "Non, elle influence seulement."
+      },
+      {
+       "id": "fc-2026-10-30-ue1-06",
+       "q": "Loi supplétive : définition et exemple ?",
+       "a": "Elle s'applique à défaut d'accord contraire ; ex. lieu de paiement."
+      },
+      {
+       "id": "fc-2026-10-30-ue1-07",
+       "q": "Loi impérative : définition et exemple ?",
+       "a": "On ne peut pas l'écarter par contrat ; ex. le SMIC."
+      }
+     ],
+     "qcm": [
+      {
+       "question": "La jurisprudence de la Cour de cassation :",
+       "options": [
+        "s'impose comme une loi",
+        "est suivie en pratique par les juges",
+        "n'a aucune influence"
+       ],
+       "correctIndex": 1,
+       "explication": "Art. 5 du Code civil : pas d'arrêt de règlement."
+      },
+      {
+       "question": "Refuser de juger parce que la loi est floue, c'est :",
+       "options": [
+        "un revirement",
+        "un déni de justice",
+        "un arrêt de règlement"
+       ],
+       "correctIndex": 1,
+       "explication": "Art. 4 du Code civil."
+      },
+      {
+       "question": "« Sauf stipulation contraire » signale une loi :",
+       "options": [
+        "impérative",
+        "supplétive",
+        "constitutionnelle"
+       ],
+       "correctIndex": 1,
+       "explication": ""
+      },
+      {
+       "question": "La doctrine est :",
+       "options": [
+        "une source directe",
+        "une source indirecte sans force obligatoire",
+        "un règlement"
+       ],
+       "correctIndex": 1,
+       "explication": ""
+      },
+      {
+       "question": "Un usage professionnel suppose :",
+       "options": [
+        "un texte écrit",
+        "une pratique répétée ressentie comme obligatoire",
+        "une décision du maire"
+       ],
+       "correctIndex": 1,
+       "explication": ""
+      },
+      {
+       "question": "Dans la hiérarchie des normes, le contrat est :",
+       "options": [
+        "au sommet",
+        "tout en bas",
+        "au niveau des lois"
+       ],
+       "correctIndex": 1,
+       "explication": ""
+      }
+     ]
+    },
+    {
+     "id": "2026-10-30-aq",
+     "heure": "11:15-11:45",
+     "ue": "UE12",
+     "type": "Anglais quotidien",
+     "titre": "Anglais quotidien · Topic 1 – Companies (article + vocabulaire)",
+     "chapId": "ue12-1",
+     "notion": "https://app.notion.com/p/3fc537c42d4b81aaab1ddaa4a9f05579",
+     "video": null,
+     "manuel": null,
+     "resume": "## What is a company?\n- Lis l'article dans Notion deux fois, dont une à voix haute.\n- Apprends les 8 mots ci-dessous.\n- Réponds aux questions et écris ta phrase.",
+     "flashcards": [
+      {
+       "id": "fc-2026-10-30-aq-01",
+       "q": "un entrepreneur individuel",
+       "a": "a sole trader"
+      },
+      {
+       "id": "fc-2026-10-30-aq-02",
+       "q": "une société de personnes",
+       "a": "a partnership"
+      },
+      {
+       "id": "fc-2026-10-30-aq-03",
+       "q": "une société à responsabilité limitée",
+       "a": "a limited company"
+      },
+      {
+       "id": "fc-2026-10-30-aq-04",
+       "q": "un associé, un actionnaire",
+       "a": "a shareholder"
+      },
+      {
+       "id": "fc-2026-10-30-aq-05",
+       "q": "la responsabilité limitée",
+       "a": "limited liability"
+      },
+      {
+       "id": "fc-2026-10-30-aq-06",
+       "q": "le siège social",
+       "a": "the head office"
+      },
+      {
+       "id": "fc-2026-10-30-aq-07",
+       "q": "une filiale",
+       "a": "a subsidiary"
+      },
+      {
+       "id": "fc-2026-10-30-aq-08",
+       "q": "la société mère",
+       "a": "the parent company"
+      }
+     ],
+     "qcm": []
+    }
+   ]
+  },
+  {
+   "date": "2026-10-31",
+   "jour": "Samedi",
+   "message": "Bilan d'octobre : 🔴 d'abord, puis 🟠, puis le tableau de bord.",
+   "seances": [
+    {
+     "id": "2026-10-31-bilan",
+     "heure": "09:00-11:00",
+     "ue": null,
+     "type": "Bilan",
+     "titre": "Bilan du mois : examen court + mise à jour du tableau de bord",
+     "chapId": null,
+     "notion": "https://app.notion.com/p/3fc537c42d4b81d1a254dca4fe68f88e",
+     "video": null,
+     "manuel": null,
+     "resume": "## Bilan d'octobre\n- Base Chapitres : commence par les 🔴 puis les 🟠.\n- Méthode des 3 piles sur les cartes de la semaine.\n- Examen court mixte de 15 questions dans Notion.\n- Mise à jour du tableau de bord : scores, cases « Fait », indisponibilités de novembre.",
+     "flashcards": [],
+     "qcm": []
+    },
+    {
+     "id": "2026-10-31-aq",
+     "heure": "11:15-11:45",
+     "ue": "UE12",
+     "type": "Anglais quotidien",
+     "titre": "Anglais quotidien · Topic 1 – Companies (article + vocabulaire)",
+     "chapId": "ue12-1",
+     "notion": "https://app.notion.com/p/3fc537c42d4b81d7a558f2424cb13f05",
+     "video": null,
+     "manuel": null,
+     "resume": "## Who cares about a company?\n- Lis l'article dans Notion deux fois, dont une à voix haute.\n- Apprends les 8 mots ci-dessous.\n- Réponds aux questions et écris ta phrase.",
+     "flashcards": [
+      {
+       "id": "fc-2026-10-31-aq-01",
+       "q": "une partie prenante",
+       "a": "a stakeholder"
+      },
+      {
+       "id": "fc-2026-10-31-aq-02",
+       "q": "un salarié",
+       "a": "an employee"
+      },
+      {
+       "id": "fc-2026-10-31-aq-03",
+       "q": "un fournisseur",
+       "a": "a supplier"
+      },
+      {
+       "id": "fc-2026-10-31-aq-04",
+       "q": "la population locale",
+       "a": "the local community"
+      },
+      {
+       "id": "fc-2026-10-31-aq-05",
+       "q": "les salaires",
+       "a": "wages"
+      },
+      {
+       "id": "fc-2026-10-31-aq-06",
+       "q": "réduire les coûts",
+       "a": "to cut costs"
+      },
+      {
+       "id": "fc-2026-10-31-aq-07",
+       "q": "un compromis, un arbitrage",
+       "a": "a trade-off"
+      },
+      {
+       "id": "fc-2026-10-31-aq-08",
+       "q": "rendre des comptes à quelqu'un",
+       "a": "to be responsible to someone"
+      }
+     ],
+     "qcm": []
+    }
+   ]
+  },
+  {
+   "date": "2026-11-01",
+   "jour": "Dimanche",
+   "message": "Repos. Pense à envoyer à Claude les photos des sommaires des manuels.",
+   "seances": []
+  }
+ ]
+}
