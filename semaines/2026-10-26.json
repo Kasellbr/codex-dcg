@@ -1,7 +1,7 @@
 {
  "version": 1,
  "semaine": "2026-10-26",
- "genere_le": "2026-10-24",
+ "genere_le": "2026-10-25",
  "jours": [
   {
    "date": "2026-10-26",
@@ -220,7 +220,7 @@
      "chapId": "ue1-1",
      "notion": "https://app.notion.com/p/3fc537c42d4b815ba39dccc646fc62b3",
      "video": "https://www.youtube.com/watch?v=3SCkMsINGBI",
-     "manuel": "Vuibert DCG 1, chap. 1 (p. 4-21) : QCM 1-8 p. 12 (10 min) + chap. 2 : sources écrites",
+     "manuel": "Vuibert DCG 1, chap. 1 : QCM 1-8 p. 12 (10 min), ex. 1 et 2 Les branches du droit p. 16-17 (25 min)",
      "resume": "## L'essentiel\n- Règle de droit : **générale, abstraite, obligatoire, coercitive** (sanction étatique).\n- Droit et morale diffèrent par l'**origine**, le **but** et surtout la **sanction**.\n- Sources directes : **bloc de constitutionnalité**, **international et UE** (règlement direct, directive à transposer), **légalité** (lois, ordonnances), **réglementaire** (décrets, arrêtés).",
      "flashcards": [
       {
@@ -585,7 +585,7 @@
      "chapId": "ue9-1",
      "notion": "https://app.notion.com/p/3fc537c42d4b81ca9dc0ff62ae4f2d01",
      "video": "https://www.youtube.com/watch?v=9KjtYAnh1l4",
-     "manuel": "Vuibert DCG 9, chap. 1 : cas guidé SARL STI p. 23-25, ex. 1-2 p. 25-26, QCM 14",
+     "manuel": "Vuibert DCG 9, chap. 1 : QCM 14 p. 23 (≈3 min), ex. 1 SARL STI (suite) p. 25 (10 min), ex. 2 SARL STI (suite et fin) p. 26 (10 min), cas guidé SARL STI p. 23-25 (noté /20)",
      "resume": "## L'essentiel\n- Trois responsabilités : **civile** (réparer), **pénale** (être puni), **disciplinaire** (sanction de la profession).\n- Principes : intégrité, indépendance, objectivité, compétence, **secret professionnel**, absence de conflit d'intérêts, confraternité.\n- Méthode d'un cas : faits → problème → règle → application → conclusion.",
      "flashcards": [
       {
@@ -772,18 +772,73 @@
   {
    "date": "2026-10-30",
    "jour": "Vendredi",
-   "message": "Dernière ligne droite de la semaine.",
+   "message": "Cours de conduite ce matin : anglais quotidien à 11 h 15, UE 1 déplacée à 14 h.",
    "seances": [
     {
+     "id": "2026-10-30-aq",
+     "heure": "11:15-11:45",
+     "ue": "UE12",
+     "type": "Anglais quotidien",
+     "titre": "Anglais quotidien · Topic 1 – Companies (article + vocabulaire)",
+     "chapId": "ue12-1",
+     "notion": "https://app.notion.com/p/3fc537c42d4b81aaab1ddaa4a9f05579",
+     "video": null,
+     "manuel": null,
+     "resume": "## What is a company?\n- Lis l'article dans Notion deux fois, dont une à voix haute.\n- Apprends les 8 mots ci-dessous.\n- Réponds aux questions et écris ta phrase.",
+     "flashcards": [
+      {
+       "id": "fc-2026-10-30-aq-01",
+       "q": "un entrepreneur individuel",
+       "a": "a sole trader"
+      },
+      {
+       "id": "fc-2026-10-30-aq-02",
+       "q": "une société de personnes",
+       "a": "a partnership"
+      },
+      {
+       "id": "fc-2026-10-30-aq-03",
+       "q": "une société à responsabilité limitée",
+       "a": "a limited company"
+      },
+      {
+       "id": "fc-2026-10-30-aq-04",
+       "q": "un associé, un actionnaire",
+       "a": "a shareholder"
+      },
+      {
+       "id": "fc-2026-10-30-aq-05",
+       "q": "la responsabilité limitée",
+       "a": "limited liability"
+      },
+      {
+       "id": "fc-2026-10-30-aq-06",
+       "q": "le siège social",
+       "a": "the head office"
+      },
+      {
+       "id": "fc-2026-10-30-aq-07",
+       "q": "une filiale",
+       "a": "a subsidiary"
+      },
+      {
+       "id": "fc-2026-10-30-aq-08",
+       "q": "la société mère",
+       "a": "the parent company"
+      }
+     ],
+     "qcm": []
+    },
+    {
      "id": "2026-10-30-ue1",
-     "heure": "08:30-11:00",
+     "heure": "14:00-16:30",
      "ue": "UE1",
      "type": "Exercices",
      "titre": "UE 1 · Règle de droit et sources (2/4)",
      "chapId": "ue1-1",
      "notion": "https://app.notion.com/p/3fc537c42d4b81999ad2de528f0148a2",
      "video": "https://www.youtube.com/watch?v=3SCkMsINGBI",
-     "manuel": "Vuibert DCG 1, chap. 2 (p. 22-41) : sources indirectes, loi impérative et supplétive",
+     "manuel": "Vuibert DCG 1, chap. 2 : QCM 1-9 p. 30 (10 min), ex. 3 Cas Mathias p. 37-38 (15 min), ex. 5 Cas Murielle Matis p. 39-40 (15 min)",
      "resume": "## L'essentiel\n- Sources indirectes : **jurisprudence** (art. 4 et 5 du Code civil), **usages professionnels**, **doctrine** (sans force obligatoire).\n- **Loi impérative** : on ne peut pas l'écarter (ex. SMIC). **Loi supplétive** : s'applique à défaut d'accord (ex. lieu de paiement).\n- Méthode : règle → qualification → application → conclusion.",
      "flashcards": [
       {
@@ -884,61 +939,6 @@
        "explication": ""
       }
      ]
-    },
-    {
-     "id": "2026-10-30-aq",
-     "heure": "11:15-11:45",
-     "ue": "UE12",
-     "type": "Anglais quotidien",
-     "titre": "Anglais quotidien · Topic 1 – Companies (article + vocabulaire)",
-     "chapId": "ue12-1",
-     "notion": "https://app.notion.com/p/3fc537c42d4b81aaab1ddaa4a9f05579",
-     "video": null,
-     "manuel": null,
-     "resume": "## What is a company?\n- Lis l'article dans Notion deux fois, dont une à voix haute.\n- Apprends les 8 mots ci-dessous.\n- Réponds aux questions et écris ta phrase.",
-     "flashcards": [
-      {
-       "id": "fc-2026-10-30-aq-01",
-       "q": "un entrepreneur individuel",
-       "a": "a sole trader"
-      },
-      {
-       "id": "fc-2026-10-30-aq-02",
-       "q": "une société de personnes",
-       "a": "a partnership"
-      },
-      {
-       "id": "fc-2026-10-30-aq-03",
-       "q": "une société à responsabilité limitée",
-       "a": "a limited company"
-      },
-      {
-       "id": "fc-2026-10-30-aq-04",
-       "q": "un associé, un actionnaire",
-       "a": "a shareholder"
-      },
-      {
-       "id": "fc-2026-10-30-aq-05",
-       "q": "la responsabilité limitée",
-       "a": "limited liability"
-      },
-      {
-       "id": "fc-2026-10-30-aq-06",
-       "q": "le siège social",
-       "a": "the head office"
-      },
-      {
-       "id": "fc-2026-10-30-aq-07",
-       "q": "une filiale",
-       "a": "a subsidiary"
-      },
-      {
-       "id": "fc-2026-10-30-aq-08",
-       "q": "la société mère",
-       "a": "the parent company"
-      }
-     ],
-     "qcm": []
     }
    ]
   },
@@ -956,7 +956,7 @@
      "chapId": null,
      "notion": "https://app.notion.com/p/3fc537c42d4b81d1a254dca4fe68f88e",
      "video": null,
-     "manuel": null,
+     "manuel": "Bonus si tu as le temps : DCG 1 chap. 1, QCM 9-15 p. 13 (10 min) et ex. 3 Cas Potet p. 17-20 (25 min) ; DCG 9 chap. 1, ex. 4 p. 26-27 (30 min)",
      "resume": "## Bilan d'octobre\n- Base Chapitres : commence par les 🔴 puis les 🟠.\n- Méthode des 3 piles sur les cartes de la semaine.\n- Examen court mixte de 15 questions dans Notion.\n- Mise à jour du tableau de bord : scores, cases « Fait », indisponibilités de novembre.",
      "flashcards": [],
      "qcm": []
@@ -1021,7 +1021,7 @@
   {
    "date": "2026-11-01",
    "jour": "Dimanche",
-   "message": "Repos. Pense à envoyer à Claude les photos des sommaires des manuels.",
+   "message": "Repos. Avant 17 h, envoie à Claude les photos des exercices du DCG 9 ch. 2 (avant p. 52) et ch. 4 (avant p. 103).",
    "seances": []
   }
  ]
