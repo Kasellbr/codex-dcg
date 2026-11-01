@@ -1,0 +1,1507 @@
+{
+ "version": 1,
+ "semaine": "2026-11-02",
+ "genere_le": "2026-11-01",
+ "jours": [
+  {
+   "date": "2026-11-02",
+   "jour": "Lundi",
+   "message": "Semaine de rattrapage : on termine ce qui manquait. Deux séances aujourd'hui (UE 9 le matin, UE 1 à 14 h).",
+   "seances": [
+    {
+     "id": "2026-11-02-ue9",
+     "heure": "08:30-11:00",
+     "ue": "UE9",
+     "type": "Exercices",
+     "titre": "UE 9 · Profession comptable (2/2) · rattrapage",
+     "chapId": "ue9-1",
+     "notion": "https://app.notion.com/p/3fc537c42d4b81ca9dc0ff62ae4f2d01",
+     "video": "https://www.youtube.com/watch?v=9KjtYAnh1l4",
+     "manuel": "Vuibert DCG 9, ch. 1 : lire p. 16-21 (V Éthique et déontologie, 10 min) ; cas guidé « SARL STI » p. 23-25 (≈40 min), ex. 1 p. 25 (10 min), ex. 2 p. 26 (10 min), QCM 14 p. 23",
+     "resume": "## Responsabilités et déontologie\n- **3 responsabilités** : civile (réparer), pénale (être puni), disciplinaire (Ordre pour l'EC, H2A pour le CAC)\n- **Éthique** = réflexion personnelle ; **déontologie** = devoirs écrits et sanctionnés\n- Principes : intégrité, **indépendance** (CAC), objectivité, compétence, **secret professionnel**, pas de conflit d'intérêts, confraternité\n- Limite au secret : déclaration de soupçon à **Tracfin**\n- Méthode : faits → problème → règle → application → conclusion",
+     "flashcards": [
+      {
+       "id": "fc-2026-11-02-ue9-01",
+       "q": "Trois types de responsabilité d'un professionnel ?",
+       "a": "Civile (réparer), pénale (être puni pour une infraction), disciplinaire (sanction de la profession)."
+      },
+      {
+       "id": "fc-2026-11-02-ue9-02",
+       "q": "Qui sanctionne disciplinairement un CAC ? un expert-comptable ?",
+       "a": "La H2A ; les chambres de discipline de l'Ordre."
+      },
+      {
+       "id": "fc-2026-11-02-ue9-03",
+       "q": "Éthique ou déontologie : laquelle est écrite et sanctionnée ?",
+       "a": "La déontologie (code de déontologie)."
+      },
+      {
+       "id": "fc-2026-11-02-ue9-04",
+       "q": "Principe le plus important pour un CAC ?",
+       "a": "L'indépendance."
+      },
+      {
+       "id": "fc-2026-11-02-ue9-05",
+       "q": "Un stagiaire est-il tenu au secret professionnel ?",
+       "a": "Oui, comme tous les collaborateurs du cabinet."
+      },
+      {
+       "id": "fc-2026-11-02-ue9-06",
+       "q": "Une limite au secret professionnel ?",
+       "a": "La déclaration de soupçon à Tracfin (lutte contre le blanchiment)."
+      },
+      {
+       "id": "fc-2026-11-02-ue9-07",
+       "q": "Les 5 étapes d'un cas de déontologie ?",
+       "a": "Faits, problème, règle, application, conclusion."
+      }
+     ],
+     "qcm": [
+      {
+       "question": "Verser des dommages-intérêts à un client relève de la responsabilité :",
+       "options": [
+        "civile",
+        "disciplinaire",
+        "pénale"
+       ],
+       "correctIndex": 0,
+       "explication": "Réparer un dommage = responsabilité civile."
+      },
+      {
+       "question": "La radiation du tableau de l'Ordre est une sanction :",
+       "options": [
+        "pénale",
+        "civile",
+        "disciplinaire"
+       ],
+       "correctIndex": 2,
+       "explication": "Elle est prononcée par les instances de la profession."
+      },
+      {
+       "question": "Le principe violé quand on révèle le résultat d'un client à un tiers :",
+       "options": [
+        "compétence",
+        "confraternité",
+        "secret professionnel"
+       ],
+       "correctIndex": 2,
+       "explication": "Les informations des clients sont couvertes par le secret."
+      },
+      {
+       "question": "L'assurance de responsabilité civile professionnelle de l'expert-comptable est :",
+       "options": [
+        "obligatoire",
+        "facultative",
+        "interdite"
+       ],
+       "correctIndex": 0,
+       "explication": "Elle est obligatoire pour protéger clients et tiers."
+      },
+      {
+       "question": "Le comptable public relève depuis 2023 :",
+       "options": [
+        "de la H2A",
+        "d'un régime de responsabilité des gestionnaires publics",
+        "de l'Ordre"
+       ],
+       "correctIndex": 1,
+       "explication": "Réforme de la responsabilité financière des gestionnaires publics."
+      },
+      {
+       "question": "L'éthique est :",
+       "options": [
+        "un code écrit sanctionné",
+        "une réflexion personnelle sur ce qui est juste",
+        "une loi"
+       ],
+       "correctIndex": 1,
+       "explication": "La déontologie est écrite ; l'éthique est personnelle."
+      }
+     ]
+    },
+    {
+     "id": "2026-11-02-aq",
+     "heure": "11:15-11:45",
+     "ue": "UE12",
+     "type": "Anglais quotidien",
+     "titre": "Anglais quotidien · Choosing the right structure for a business",
+     "chapId": "ue12-1",
+     "notion": "https://app.notion.com/p/3fc537c42d4b8143abddfa0b1ce6525f",
+     "video": null,
+     "manuel": "Pas de manuel : article rédigé par Claude dans la page Notion",
+     "resume": "## Business structures\n- **Sole trader** : seul, peu de formalités, mais biens personnels exposés\n- **Partnership** : plusieurs associés qui partagent travail et profits\n- **Limited company** : personne morale distincte, **limited liability** des actionnaires\n- Phrase à écrire avec **whereas**",
+     "flashcards": [
+      {
+       "id": "fc-2026-11-02-aq-01",
+       "q": "entrepreneur individuel",
+       "a": "sole trader"
+      },
+      {
+       "id": "fc-2026-11-02-aq-02",
+       "q": "forme juridique",
+       "a": "legal structure"
+      },
+      {
+       "id": "fc-2026-11-02-aq-03",
+       "q": "inconvénient",
+       "a": "drawback"
+      },
+      {
+       "id": "fc-2026-11-02-aq-04",
+       "q": "biens personnels",
+       "a": "personal assets"
+      },
+      {
+       "id": "fc-2026-11-02-aq-05",
+       "q": "société de personnes (associés)",
+       "a": "partnership"
+      },
+      {
+       "id": "fc-2026-11-02-aq-06",
+       "q": "personne morale distincte",
+       "a": "separate legal entity"
+      },
+      {
+       "id": "fc-2026-11-02-aq-07",
+       "q": "être poursuivi en justice",
+       "a": "to be sued"
+      },
+      {
+       "id": "fc-2026-11-02-aq-08",
+       "q": "responsabilité limitée",
+       "a": "limited liability"
+      }
+     ],
+     "qcm": []
+    },
+    {
+     "id": "2026-11-02-ue1",
+     "heure": "14:00-16:30",
+     "ue": "UE1",
+     "type": "Exercices",
+     "titre": "UE 1 · Règle de droit et sources (2/4) · rattrapage",
+     "chapId": "ue1-1",
+     "notion": "https://app.notion.com/p/3fc537c42d4b81999ad2de528f0148a2",
+     "video": "https://www.youtube.com/watch?v=3SCkMsINGBI",
+     "manuel": "Vuibert DCG 1, ch. 2 : lire p. 26 (I-B sources informelles, 10 min) ; QCM 1-9 p. 30 (10 min), ex. 3 « Cas Mathias » p. 37-38 (15 min), ex. 5 « Cas Murielle Matis » p. 39-40 (15 min)",
+     "resume": "## Sources indirectes, loi impérative ou supplétive\n- **Jurisprudence** : le juge doit juger (C. civ. art. 4) mais pas d'arrêt de règlement (art. 5)\n- **Usages** : pratique répétée + ressentie comme obligatoire\n- **Doctrine** : opinions des juristes, sans force obligatoire\n- **Loi impérative** : on ne peut pas l'écarter (ex. SMIC)\n- **Loi supplétive** : s'applique à défaut d'accord (« sauf convention contraire »)",
+     "flashcards": [
+      {
+       "id": "fc-2026-11-02-ue1-01",
+       "q": "Définis la jurisprudence.",
+       "a": "L'ensemble des décisions de justice et l'interprétation habituelle que les juges donnent des règles."
+      },
+      {
+       "id": "fc-2026-11-02-ue1-02",
+       "q": "Que disent les articles 4 et 5 du Code civil ?",
+       "a": "Art. 4 : le juge doit juger même si la loi est obscure (sinon déni de justice). Art. 5 : il ne peut pas rendre d'arrêts de règlement."
+      },
+      {
+       "id": "fc-2026-11-02-ue1-03",
+       "q": "Qu'est-ce qu'un revirement de jurisprudence ?",
+       "a": "Un changement d'interprétation par une juridiction, surtout la Cour de cassation."
+      },
+      {
+       "id": "fc-2026-11-02-ue1-04",
+       "q": "Deux éléments d'un usage ?",
+       "a": "Une pratique répétée + le sentiment qu'elle est obligatoire."
+      },
+      {
+       "id": "fc-2026-11-02-ue1-05",
+       "q": "La doctrine est-elle obligatoire ?",
+       "a": "Non, elle influence seulement les juges et le législateur."
+      },
+      {
+       "id": "fc-2026-11-02-ue1-06",
+       "q": "Loi supplétive : définition et exemple ?",
+       "a": "Elle s'applique à défaut d'accord contraire. Ex. : lieu de paiement au domicile du débiteur."
+      },
+      {
+       "id": "fc-2026-11-02-ue1-07",
+       "q": "Loi impérative : définition et exemple ?",
+       "a": "On ne peut pas l'écarter par contrat. Ex. : le SMIC."
+      }
+     ],
+     "qcm": [
+      {
+       "question": "La jurisprudence de la Cour de cassation :",
+       "options": [
+        "est suivie en pratique par les autres juges",
+        "n'a aucune influence",
+        "s'impose juridiquement à tous comme une loi"
+       ],
+       "correctIndex": 0,
+       "explication": "Elle n'est pas obligatoire juridiquement mais suivie en pratique."
+      },
+      {
+       "question": "Un juge qui refuse de juger parce que la loi est floue commet :",
+       "options": [
+        "un arrêt de règlement",
+        "un revirement",
+        "un déni de justice"
+       ],
+       "correctIndex": 2,
+       "explication": "Code civil, art. 4."
+      },
+      {
+       "question": "« Sauf stipulation contraire » signale une loi :",
+       "options": [
+        "impérative",
+        "supplétive",
+        "constitutionnelle"
+       ],
+       "correctIndex": 1,
+       "explication": "Les parties peuvent prévoir autre chose."
+      },
+      {
+       "question": "La doctrine est :",
+       "options": [
+        "un règlement",
+        "une source directe",
+        "une source indirecte sans force obligatoire"
+       ],
+       "correctIndex": 2,
+       "explication": "Elle influence sans obliger."
+      },
+      {
+       "question": "Un usage professionnel suppose :",
+       "options": [
+        "une pratique répétée ressentie comme obligatoire",
+        "un texte écrit",
+        "une décision du maire"
+       ],
+       "correctIndex": 0,
+       "explication": "Élément matériel + élément psychologique."
+      },
+      {
+       "question": "Le contrat se situe dans la hiérarchie des normes :",
+       "options": [
+        "au sommet",
+        "tout en bas",
+        "au niveau des lois"
+       ],
+       "correctIndex": 1,
+       "explication": "Il n'oblige que ceux qui l'ont signé."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-03",
+   "jour": "Mardi",
+   "message": "Test d'anglais à 11 h 15 : sans dictionnaire, et envoie ensuite tes résultats à Claude.",
+   "seances": [
+    {
+     "id": "2026-11-03-ue1",
+     "heure": "08:30-11:00",
+     "ue": "UE1",
+     "type": "Cours",
+     "titre": "UE 1 · Règle de droit et sources (3/4)",
+     "chapId": "ue1-1",
+     "notion": "https://app.notion.com/p/3fc537c42d4b81988b7bed3baeabfe8b",
+     "video": "https://www.youtube.com/watch?v=3SCkMsINGBI",
+     "manuel": "Vuibert DCG 1, ch. 2 : lire p. 27-29 (II Hiérarchie des normes et contrôles, 10-15 min) ; QCM 10-15 p. 31 (10 min), ex. 1 « Cas Elena Paltan » p. 36 (10 min), ex. 2 « Cas Annabelle Dupont » p. 37 (15 min)",
+     "resume": "## Hiérarchie des normes et contrôles\n- Pyramide : **constitutionnalité** > **conventionnalité** (traités, UE ; art. 55) > lois > règlements > contrats\n- **Contrôle de constitutionnalité** : a priori (art. 61, 60 députés ou sénateurs) ou **QPC** (art. 61-1, pendant un procès)\n- **Conventionnalité** : tous les juges écartent la loi contraire à un traité\n- **Légalité** : le juge administratif annule un règlement illégal (recours pour excès de pouvoir, 2 mois)\n- Procédure législative : projet / proposition → navette → CMP → dernier mot à l'AN → promulgation → JO",
+     "flashcards": [
+      {
+       "id": "fc-2026-11-03-ue1-01",
+       "q": "Quelles normes forment le bloc de constitutionnalité ?",
+       "a": "Constitution de 1958, DDHC de 1789, Préambule de 1946, Charte de l'environnement de 2004."
+      },
+      {
+       "id": "fc-2026-11-03-ue1-02",
+       "q": "Que dit l'article 55 de la Constitution ?",
+       "a": "Un traité régulièrement ratifié a une autorité supérieure à celle des lois (sous réserve de réciprocité)."
+      },
+      {
+       "id": "fc-2026-11-03-ue1-03",
+       "q": "Qui peut saisir le Conseil constitutionnel avant la promulgation d'une loi ?",
+       "a": "Le Président, le Premier ministre, les présidents des deux assemblées, 60 députés ou 60 sénateurs."
+      },
+      {
+       "id": "fc-2026-11-03-ue1-04",
+       "q": "QPC : qui, quand, quel effet ?",
+       "a": "Une partie à un procès, contre une loi déjà en vigueur ; filtre Cour de cassation / Conseil d'État ; si inconstitutionnelle, la loi est abrogée."
+      },
+      {
+       "id": "fc-2026-11-03-ue1-05",
+       "q": "Contrôle de conventionnalité : qui le fait et avec quel effet ?",
+       "a": "Tous les juges ordinaires ; ils écartent la loi contraire au traité (sans l'annuler)."
+      },
+      {
+       "id": "fc-2026-11-03-ue1-06",
+       "q": "Comment conteste-t-on un décret contraire à une loi ?",
+       "a": "Recours pour excès de pouvoir devant le juge administratif, en principe dans les 2 mois ; le décret peut être annulé."
+      },
+      {
+       "id": "fc-2026-11-03-ue1-07",
+       "q": "Projet de loi ou proposition de loi ?",
+       "a": "Projet = Gouvernement ; proposition = parlementaires."
+      },
+      {
+       "id": "fc-2026-11-03-ue1-08",
+       "q": "Qui a le dernier mot en cas de désaccord entre les assemblées ?",
+       "a": "L'Assemblée nationale, si le Gouvernement le lui demande (après l'échec de la commission mixte paritaire)."
+      }
+     ],
+     "qcm": [
+      {
+       "question": "Au sommet de la hiérarchie des normes en droit interne, on trouve :",
+       "options": [
+        "les traités internationaux",
+        "les lois organiques",
+        "le bloc de constitutionnalité",
+        "les règlements européens"
+       ],
+       "correctIndex": 2,
+       "explication": "En droit interne, la Constitution reste au sommet."
+      },
+      {
+       "question": "La QPC permet :",
+       "options": [
+        "au Président de saisir le Conseil constitutionnel avant la promulgation",
+        "au juge administratif d'annuler un décret illégal",
+        "à un juge d'écarter une loi contraire à un traité",
+        "à une partie à un procès de contester une loi déjà en vigueur"
+       ],
+       "correctIndex": 3,
+       "explication": "Art. 61-1, contrôle a posteriori."
+      },
+      {
+       "question": "Un décret contraire à une loi est contrôlé par :",
+       "options": [
+        "le Conseil constitutionnel",
+        "la Cour de justice de l'Union européenne",
+        "le Parlement, par un vote de censure",
+        "le juge administratif, qui peut l'annuler"
+       ],
+       "correctIndex": 3,
+       "explication": "Contrôle de légalité par recours pour excès de pouvoir."
+      },
+      {
+       "question": "Un texte déposé par des sénateurs s'appelle :",
+       "options": [
+        "un projet de loi",
+        "une ordonnance",
+        "une proposition de loi",
+        "un décret d'application"
+       ],
+       "correctIndex": 2,
+       "explication": "Proposition = initiative parlementaire."
+      },
+      {
+       "question": "En cas de désaccord persistant entre les deux assemblées, le dernier mot peut revenir :",
+       "options": [
+        "à l'Assemblée nationale",
+        "au Sénat",
+        "au Conseil constitutionnel",
+        "au Président de la République"
+       ],
+       "correctIndex": 0,
+       "explication": "Après la CMP, à la demande du Gouvernement."
+      },
+      {
+       "question": "D'après l'article 55 de la Constitution, un traité régulièrement ratifié a :",
+       "options": [
+        "une autorité supérieure à celle des lois",
+        "la même valeur qu'un décret",
+        "une valeur supérieure à la Constitution",
+        "la même valeur qu'une loi ordinaire"
+       ],
+       "correctIndex": 0,
+       "explication": "Supériorité sur la loi, sous réserve de réciprocité."
+      }
+     ]
+    },
+    {
+     "id": "2026-11-03-ca",
+     "heure": "11:15-12:15",
+     "ue": "UE12",
+     "type": "Cours d'anglais",
+     "titre": "Cours d'anglais · Test de niveau (1/2) · rattrapage",
+     "chapId": "ue12-0",
+     "notion": "https://app.notion.com/p/3fc537c42d4b81c29ba6d037fb0d8380",
+     "video": null,
+     "manuel": "Pas de manuel : test rédigé par Claude dans la page Notion (sans dictionnaire ni traducteur)",
+     "resume": "## Test de niveau (1/2)\n- Partie A : grammaire et vocabulaire, 25 questions (20 min)\n- Partie B : compréhension écrite (15 min)\n- Partie C : e-mail professionnel de 100-130 mots (15 min)\n- Partie D : auto-évaluation CECRL\n- **Envoie à Claude** ton e-mail, tes scores A et B et tes coches avant jeudi",
+     "flashcards": [],
+     "qcm": [
+      {
+       "question": "She ___ in Montpellier since 2024.",
+       "options": [
+        "lives",
+        "has lived",
+        "is living",
+        "lived"
+       ],
+       "correctIndex": 1,
+       "explication": "Since 2024 → present perfect."
+      },
+      {
+       "question": "I ___ to the bank yesterday.",
+       "options": [
+        "go",
+        "have gone",
+        "went",
+        "was go"
+       ],
+       "correctIndex": 2,
+       "explication": "Yesterday = moment précis terminé → past simple."
+      },
+      {
+       "question": "There aren't ___ invoices left to check.",
+       "options": [
+        "some",
+        "no",
+        "much",
+        "any"
+       ],
+       "correctIndex": 3,
+       "explication": "Phrase négative → any."
+      },
+      {
+       "question": "If the client pays late, we ___ him a reminder.",
+       "options": [
+        "will send",
+        "would send",
+        "sent",
+        "sending"
+       ],
+       "correctIndex": 0,
+       "explication": "First conditional : if + présent, will + verbe."
+      },
+      {
+       "question": "The meeting was ___ than I expected.",
+       "options": [
+        "more long",
+        "longer",
+        "longest",
+        "as long"
+       ],
+       "correctIndex": 1,
+       "explication": "Comparatif d'un adjectif court : -er than."
+      },
+      {
+       "question": "Our accountant is used to ___ under pressure.",
+       "options": [
+        "work",
+        "working",
+        "worked",
+        "works"
+       ],
+       "correctIndex": 1,
+       "explication": "Be used to + -ing."
+      },
+      {
+       "question": "By the end of the year, the company ___ 50 new employees.",
+       "options": [
+        "will have hired",
+        "will hire",
+        "has hired",
+        "hires"
+       ],
+       "correctIndex": 0,
+       "explication": "By the end of… → future perfect."
+      },
+      {
+       "question": "The report ___ by the auditor last week.",
+       "options": [
+        "has checked",
+        "was checked",
+        "checked",
+        "is checked"
+       ],
+       "correctIndex": 1,
+       "explication": "Passif au passé : was + participe."
+      },
+      {
+       "question": "In British business English, a company's “turnover” usually means its:",
+       "options": [
+        "revenue (sales)",
+        "number of employees",
+        "profit",
+        "debt"
+       ],
+       "correctIndex": 0,
+       "explication": "Turnover = chiffre d'affaires."
+      },
+      {
+       "question": "A company's “liabilities” are:",
+       "options": [
+        "what it owns",
+        "its profits",
+        "its customers",
+        "what it owes"
+       ],
+       "correctIndex": 3,
+       "explication": "Liabilities = dettes (ce que l'entreprise doit)."
+      },
+      {
+       "question": "I wish I ___ more time to study.",
+       "options": [
+        "have",
+        "will have",
+        "am having",
+        "had"
+       ],
+       "correctIndex": 3,
+       "explication": "I wish + prétérit pour un regret présent."
+      },
+      {
+       "question": "He asked me where ___.",
+       "options": [
+        "did I work",
+        "do I work",
+        "I worked",
+        "I am work"
+       ],
+       "correctIndex": 2,
+       "explication": "Discours indirect : pas d'inversion sujet-verbe."
+      },
+      {
+       "question": "We need to ___ the deadline: the client wants the files on Friday.",
+       "options": [
+        "reach",
+        "meet",
+        "do",
+        "make"
+       ],
+       "correctIndex": 1,
+       "explication": "Meet a deadline = respecter un délai."
+      },
+      {
+       "question": "Despite ___ the risks, they invested.",
+       "options": [
+        "knowing",
+        "know",
+        "they knew",
+        "of knowing"
+       ],
+       "correctIndex": 0,
+       "explication": "Despite + -ing."
+      },
+      {
+       "question": "Hardly ___ the contract when the price went up.",
+       "options": [
+        "we had signed",
+        "we signed",
+        "did we signed",
+        "had we signed"
+       ],
+       "correctIndex": 3,
+       "explication": "Hardly… when : inversion (had we signed)."
+      },
+      {
+       "question": "Because of falling sales, the firm decided to ___ 20% of its staff.",
+       "options": [
+        "lay down",
+        "put off",
+        "lay off",
+        "take off"
+       ],
+       "correctIndex": 2,
+       "explication": "Lay off = licencier (économique)."
+      },
+      {
+       "question": "“Shareholders” are:",
+       "options": [
+        "people who lend money to a company",
+        "people who buy the company's products",
+        "people who manage the company daily",
+        "people who own shares in a company"
+       ],
+       "correctIndex": 3,
+       "explication": "Shareholders = actionnaires."
+      },
+      {
+       "question": "Unless the figures ___ correct, the auditor will not sign.",
+       "options": [
+        "aren't",
+        "will be",
+        "won't be",
+        "are"
+       ],
+       "correctIndex": 3,
+       "explication": "Unless = sauf si, + présent."
+      },
+      {
+       "question": "She ___ have left already: her coat is gone.",
+       "options": [
+        "must",
+        "can't",
+        "should",
+        "needs"
+       ],
+       "correctIndex": 0,
+       "explication": "Must have + participe = déduction quasi certaine."
+      },
+      {
+       "question": "It's high time we ___ a decision.",
+       "options": [
+        "make",
+        "will make",
+        "made",
+        "are making"
+       ],
+       "correctIndex": 2,
+       "explication": "It's high time + prétérit."
+      },
+      {
+       "question": "The CFO, ___ office is on the third floor, will join us.",
+       "options": [
+        "whose",
+        "who",
+        "which",
+        "that"
+       ],
+       "correctIndex": 0,
+       "explication": "Whose = dont (possession)."
+      },
+      {
+       "question": "“Cash flow” refers to:",
+       "options": [
+        "the profit shown at the end of the year",
+        "the total value of the company's assets",
+        "the money moving in and out of a business",
+        "the tax paid on the company's sales"
+       ],
+       "correctIndex": 2,
+       "explication": "Cash flow = flux de trésorerie."
+      },
+      {
+       "question": "Had the bank approved the loan, we ___ the new warehouse.",
+       "options": [
+        "would buy",
+        "will buy",
+        "would have bought",
+        "had bought"
+       ],
+       "correctIndex": 2,
+       "explication": "Conditionnel passé inversé : had + sujet…, would have + participe."
+      },
+      {
+       "question": "Which is the most appropriate opening for a formal email?",
+       "options": [
+        "Thank you for your email of 12 October",
+        "Thanks a lot for your mail",
+        "Cheers for the email",
+        "Thx for writing"
+       ],
+       "correctIndex": 0,
+       "explication": "Registre formel : Thank you for your email of…"
+      },
+      {
+       "question": "The new regulation is likely to ___ small businesses the most.",
+       "options": [
+        "effect",
+        "affect",
+        "afflict",
+        "infect"
+       ],
+       "correctIndex": 1,
+       "explication": "Affect = verbe (toucher) ; effect = nom."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-04",
+   "jour": "Mercredi",
+   "message": "Examen de conduite ce matin : bonne chance ! UE 9 à 14 h, anglais quotidien à 16 h 45.",
+   "seances": [
+    {
+     "id": "2026-11-04-ue9",
+     "heure": "14:00-16:30",
+     "ue": "UE9",
+     "type": "Cours",
+     "titre": "UE 9 · Normalisation et PCG (1/1)",
+     "chapId": "ue9-1",
+     "notion": "https://app.notion.com/p/3fc537c42d4b81f6ad9ac31366fd47e5",
+     "video": "https://www.youtube.com/watch?v=LTNhNxg4WW0",
+     "manuel": "Vuibert DCG 9, ch. 2 : lire p. 30-42 en survol (10-15 min) ; applications p. 43-51 : QCM (≈10 min) puis exercices du plus court au plus long (40 min au total ; numéros à relever)",
+     "resume": "## Normalisation et PCG\n- Normaliser = règles communes pour des comptes **comparables et fiables**\n- **ANC** (France, règlements homologués) ; **IASB** (IFRS, obligatoires dans l'UE pour les comptes consolidés des sociétés cotées)\n- PCG = règlement **ANC 2014-03**, modernisé par **ANC 2022-06** (exercices ouverts dès le 1er janv. 2025)\n- Comptes annuels : **bilan, compte de résultat, annexe** ; classes 1 à 5 bilan, 6 charges, 7 produits\n- Principes : prudence, permanence des méthodes, indépendance des exercices, coût historique, non-compensation…",
+     "flashcards": [
+      {
+       "id": "fc-2026-11-04-ue9-01",
+       "q": "Pourquoi normaliser la comptabilité ?",
+       "a": "Pour des comptes comparables, fiables et compréhensibles par tous les utilisateurs."
+      },
+      {
+       "id": "fc-2026-11-04-ue9-02",
+       "q": "Qui élabore les normes comptables françaises ?",
+       "a": "L'ANC (Autorité des normes comptables) ; ses règlements sont homologués par arrêté ministériel."
+      },
+      {
+       "id": "fc-2026-11-04-ue9-03",
+       "q": "IFRS : qui les écrit et pour qui sont-elles obligatoires dans l'UE ?",
+       "a": "L'IASB ; obligatoires depuis 2005 pour les comptes consolidés des sociétés cotées."
+      },
+      {
+       "id": "fc-2026-11-04-ue9-04",
+       "q": "Quel règlement contient le PCG ?",
+       "a": "Le règlement ANC n° 2014-03 (modifié, notamment par le règlement ANC 2022-06)."
+      },
+      {
+       "id": "fc-2026-11-04-ue9-05",
+       "q": "Depuis quand s'applique la modernisation des états financiers (ANC 2022-06) ?",
+       "a": "Aux exercices ouverts à partir du 1er janvier 2025."
+      },
+      {
+       "id": "fc-2026-11-04-ue9-06",
+       "q": "Que contiennent les comptes annuels ?",
+       "a": "Bilan, compte de résultat et annexe (un tout indissociable)."
+      },
+      {
+       "id": "fc-2026-11-04-ue9-07",
+       "q": "Classes 6 et 7 du PCG ?",
+       "a": "6 = charges ; 7 = produits."
+      },
+      {
+       "id": "fc-2026-11-04-ue9-08",
+       "q": "Principe violé si on n'enregistre pas une perte probable ?",
+       "a": "La prudence."
+      },
+      {
+       "id": "fc-2026-11-04-ue9-09",
+       "q": "Principe qui interdit de changer de méthode chaque année ?",
+       "a": "La permanence des méthodes."
+      }
+     ],
+     "qcm": [
+      {
+       "question": "L'organisme qui élabore les normes comptables françaises est :",
+       "options": [
+        "l'IASB",
+        "la H2A",
+        "l'ANC",
+        "l'Ordre des experts-comptables"
+       ],
+       "correctIndex": 2,
+       "explication": "L'ANC produit les règlements comptables français."
+      },
+      {
+       "question": "Le PCG figure aujourd'hui dans :",
+       "options": [
+        "le règlement européen de 2002 sur les IFRS",
+        "l'ordonnance de 1945 sur l'Ordre",
+        "le règlement ANC n° 2014-03 modifié",
+        "la directive comptable européenne de 2013"
+       ],
+       "correctIndex": 2,
+       "explication": "Le PCG = règlement ANC 2014-03, modifié depuis."
+      },
+      {
+       "question": "Dans l'UE, les IFRS sont obligatoires pour :",
+       "options": [
+        "toutes les sociétés commerciales",
+        "les comptes individuels des PME",
+        "les associations et les fondations",
+        "les comptes consolidés des sociétés cotées"
+       ],
+       "correctIndex": 3,
+       "explication": "Depuis 2005 (règlement européen de 2002)."
+      },
+      {
+       "question": "Une entreprise change chaque année de méthode d'amortissement pour lisser son résultat. Elle viole :",
+       "options": [
+        "le coût historique",
+        "la non-compensation",
+        "la continuité d'exploitation",
+        "la permanence des méthodes"
+       ],
+       "correctIndex": 3,
+       "explication": "Les méthodes doivent rester les mêmes d'un exercice à l'autre."
+      },
+      {
+       "question": "Présenter seulement le solde net entre une dette fournisseur et une créance client viole :",
+       "options": [
+        "la prudence",
+        "la non-compensation",
+        "l'importance relative",
+        "l'indépendance des exercices"
+       ],
+       "correctIndex": 1,
+       "explication": "Dettes et créances restent séparées."
+      },
+      {
+       "question": "Les comptes annuels comprennent :",
+       "options": [
+        "le bilan, le compte de résultat et l'annexe",
+        "le bilan, le journal et le grand livre",
+        "la balance, le bilan et le rapport de gestion",
+        "le compte de résultat, le budget et l'annexe"
+       ],
+       "correctIndex": 0,
+       "explication": "Code de commerce : un tout indissociable."
+      }
+     ]
+    },
+    {
+     "id": "2026-11-04-aq",
+     "heure": "16:45-17:15",
+     "ue": "UE12",
+     "type": "Anglais quotidien",
+     "titre": "Anglais quotidien · Who does what at Sunrise Foods?",
+     "chapId": "ue12-1",
+     "notion": "https://app.notion.com/p/3fc537c42d4b81b5bb9fee8c358e1771",
+     "video": null,
+     "manuel": "Pas de manuel : article rédigé par Claude dans la page Notion",
+     "resume": "## Who does what in a company?\n- **Board of directors** : représente les actionnaires, nomme le CEO\n- **CEO** : dirige au quotidien ; les chefs de service **report to** lui\n- **CFO** : budget, comptes, banques, auditeurs externes\n- **HR** : recrutement, formation, **payroll**\n- Phrase à écrire : *responsible for + -ing*",
+     "flashcards": [
+      {
+       "id": "fc-2026-11-04-aq-01",
+       "q": "conseil d'administration",
+       "a": "board of directors"
+      },
+      {
+       "id": "fc-2026-11-04-aq-02",
+       "q": "directeur général",
+       "a": "chief executive officer (CEO)"
+      },
+      {
+       "id": "fc-2026-11-04-aq-03",
+       "q": "directeur administratif et financier",
+       "a": "chief financial officer (CFO)"
+      },
+      {
+       "id": "fc-2026-11-04-aq-04",
+       "q": "dépendre de, rendre compte à",
+       "a": "to report to"
+      },
+      {
+       "id": "fc-2026-11-04-aq-05",
+       "q": "ressources humaines",
+       "a": "human resources (HR)"
+      },
+      {
+       "id": "fc-2026-11-04-aq-06",
+       "q": "la paie",
+       "a": "payroll"
+      },
+      {
+       "id": "fc-2026-11-04-aq-07",
+       "q": "commissaires aux comptes (auditeurs externes)",
+       "a": "external auditors"
+      },
+      {
+       "id": "fc-2026-11-04-aq-08",
+       "q": "organigramme",
+       "a": "organisation chart"
+      }
+     ],
+     "qcm": []
+    }
+   ]
+  },
+  {
+   "date": "2026-11-05",
+   "jour": "Jeudi",
+   "message": "Partie double : prends le temps de dessiner tes comptes en T.",
+   "seances": [
+    {
+     "id": "2026-11-05-ue9",
+     "heure": "08:30-11:00",
+     "ue": "UE9",
+     "type": "Cours",
+     "titre": "UE 9 · Partie double (1/3)",
+     "chapId": "ue9-2",
+     "notion": "https://app.notion.com/p/3fc537c42d4b81ce9f09d37980d03d4a",
+     "video": "https://www.youtube.com/watch?v=NRqCw2EOo0w",
+     "manuel": "Vuibert DCG 9, ch. 4 : lire p. 74-84 (I-II partie double et comptes, 10-15 min) ; applications p. 93-102 : QCM (≈10 min) puis exercices sur les comptes, du plus court au plus long (40 min ; numéros à relever)",
+     "resume": "## Flux, emplois-ressources, partie double\n- Chaque opération = **deux flux** (réel et financier)\n- **Ressource** = origine ; **emploi** = utilisation\n- Compte en T : **débit à gauche** (emplois), **crédit à droite** (ressources)\n- Solde = débits − crédits (débiteur ou créditeur)\n- **Partie double** : au moins deux comptes, total débits = total crédits\n- Actif et charges augmentent au débit ; passif et produits au crédit",
+     "flashcards": [
+      {
+       "id": "fc-2026-11-05-ue9-01",
+       "q": "Flux réel ou flux financier : la livraison d'un camion ?",
+       "a": "Flux réel (un bien). Le paiement est le flux financier."
+      },
+      {
+       "id": "fc-2026-11-05-ue9-02",
+       "q": "Emploi et ressource : définitions ?",
+       "a": "Ressource = origine de la valeur ; emploi = utilisation de la valeur."
+      },
+      {
+       "id": "fc-2026-11-05-ue9-03",
+       "q": "De quel côté est le débit dans un compte en T ?",
+       "a": "À gauche (les emplois). Le crédit est à droite (les ressources)."
+      },
+      {
+       "id": "fc-2026-11-05-ue9-04",
+       "q": "Comment calcule-t-on le solde d'un compte ?",
+       "a": "Total des débits − total des crédits : positif = débiteur, négatif = créditeur."
+      },
+      {
+       "id": "fc-2026-11-05-ue9-05",
+       "q": "Principe de la partie double ?",
+       "a": "Chaque opération touche au moins deux comptes ; total des débits = total des crédits."
+      },
+      {
+       "id": "fc-2026-11-05-ue9-06",
+       "q": "Un compte d'actif augmente au… ? Un compte de passif ?",
+       "a": "Actif : au débit. Passif : au crédit."
+      },
+      {
+       "id": "fc-2026-11-05-ue9-07",
+       "q": "Charges et produits : de quel côté s'enregistrent-ils ?",
+       "a": "Charges au débit (classe 6), produits au crédit (classe 7)."
+      },
+      {
+       "id": "fc-2026-11-05-ue9-08",
+       "q": "Écriture d'un apport en capital de 15 000 € en banque ?",
+       "a": "Débit 512 Banque 15 000 / Crédit 101 Capital 15 000."
+      }
+     ],
+     "qcm": [
+      {
+       "question": "La banque verse un emprunt sur le compte de l'entreprise. La ressource est :",
+       "options": [
+        "la banque",
+        "le capital",
+        "le fournisseur",
+        "l'emprunt"
+       ],
+       "correctIndex": 3,
+       "explication": "L'argent vient de l'emprunt ; il est employé en banque."
+      },
+      {
+       "question": "Dans un compte en T, le débit est :",
+       "options": [
+        "le côté droit",
+        "toujours égal au solde",
+        "le côté gauche",
+        "le total des ressources"
+       ],
+       "correctIndex": 2,
+       "explication": "Débit à gauche, crédit à droite."
+      },
+      {
+       "question": "Un compte d'actif comme 512 Banque augmente :",
+       "options": [
+        "au crédit",
+        "au débit",
+        "des deux côtés à la fois",
+        "seulement à la clôture"
+       ],
+       "correctIndex": 1,
+       "explication": "Les comptes d'actif augmentent au débit."
+      },
+      {
+       "question": "La partie double signifie que :",
+       "options": [
+        "chaque opération est notée deux fois dans le même compte",
+        "l'entreprise tient deux comptabilités séparées",
+        "le total des charges égale le total des produits",
+        "pour chaque opération, total des débits = total des crédits"
+       ],
+       "correctIndex": 3,
+       "explication": "Un compte débité, un compte crédité, même montant."
+      },
+      {
+       "question": "Un compte dont le total des crédits dépasse le total des débits a :",
+       "options": [
+        "un solde débiteur",
+        "un solde créditeur",
+        "un solde nul",
+        "forcément une erreur"
+       ],
+       "correctIndex": 1,
+       "explication": "Solde négatif = créditeur."
+      },
+      {
+       "question": "Une vente de marchandises encaissée en espèces s'enregistre :",
+       "options": [
+        "débit 707, crédit 53",
+        "débit 607, crédit 53",
+        "débit 53, crédit 607",
+        "débit 53, crédit 707"
+       ],
+       "correctIndex": 3,
+       "explication": "La caisse augmente (débit), la vente est un produit (crédit)."
+      }
+     ]
+    },
+    {
+     "id": "2026-11-05-ca",
+     "heure": "11:15-12:15",
+     "ue": "UE12",
+     "type": "Cours d'anglais",
+     "titre": "Cours d'anglais · Test de niveau (2/2) · rattrapage",
+     "chapId": "ue12-0",
+     "notion": "https://app.notion.com/p/3fc537c42d4b8154bc82d9e463d754d8",
+     "video": null,
+     "manuel": "Pas de manuel : écoute BBC Learning English « 6 Minute English » + oral avec Claude dans le chat",
+     "resume": "## Test de niveau (2/2) et present perfect\n- Partie E : compréhension orale (BBC 6 Minute English)\n- Partie F : oral avec Claude, écris « Ready for speaking » dans le chat\n- Correction de ton e-mail de mardi\n- **Past simple** = moment terminé et précis (yesterday, ago, in 2023)\n- **Present perfect** = lien avec maintenant (since, for, already, yet, ever)",
+     "flashcards": [
+      {
+       "id": "fc-2026-11-05-ca-01",
+       "q": "J'habite à Montpellier depuis 2024 (en anglais) ?",
+       "a": "I have lived in Montpellier since 2024."
+      },
+      {
+       "id": "fc-2026-11-05-ca-02",
+       "q": "J'ai envoyé la facture hier (en anglais) ?",
+       "a": "I sent the invoice yesterday."
+      },
+      {
+       "id": "fc-2026-11-05-ca-03",
+       "q": "Since ou for : « depuis trois ans » ?",
+       "a": "For three years (for + durée ; since + point de départ)."
+      },
+      {
+       "id": "fc-2026-11-05-ca-04",
+       "q": "Past simple ou present perfect avec yesterday, last week, ago ?",
+       "a": "Past simple (moment terminé et précis)."
+      },
+      {
+       "id": "fc-2026-11-05-ca-05",
+       "q": "Formule polie pour demander un document dans un e-mail ?",
+       "a": "Could you please send me… by (date)?"
+      }
+     ],
+     "qcm": []
+    }
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "jour": "Vendredi",
+   "message": "Grosse journée : UE 1 le matin, UE 9 à 14 h. Pense aux pauses.",
+   "seances": [
+    {
+     "id": "2026-11-06-ue1",
+     "heure": "08:30-11:00",
+     "ue": "UE1",
+     "type": "Exercices",
+     "titre": "UE 1 · Règle de droit et sources (4/4)",
+     "chapId": "ue1-1",
+     "notion": "https://app.notion.com/p/3fc537c42d4b81b5a7f2e42dc8c319b6",
+     "video": "https://www.youtube.com/watch?v=3SCkMsINGBI",
+     "manuel": "Vuibert DCG 1, ch. 2 : pas de lecture ; ex. 4 « Cas stage DCG » p. 38-39 (20 min), cas guidé « Les cours de Jules Petiot » p. 31-35 (≈40 min) ; bonus samedi : cas de synthèse « Cas Loroit » p. 40-41 (20 min)",
+     "resume": "## Conflit de normes en droit du travail\n- Méthode : repérer, classer, impérative ou non, principe de faveur, conclure\n- Code du travail (2016) : **ordre public**, **champ de la négociation collective**, **dispositions supplétives**\n- Branche / entreprise (2017) : **bloc 1** la branche prime (salaires minima), **bloc 2** verrouillage possible, **bloc 3** l'accord d'entreprise prime (prime d'ancienneté)\n- **Principe de faveur** entre contrat et convention\n- **Usage** : général, constant, fixe ; supprimé seulement par dénonciation",
+     "flashcards": [
+      {
+       "id": "fc-2026-11-06-ue1-01",
+       "q": "Les 3 étages du Code du travail depuis 2016 ?",
+       "a": "Ordre public · champ de la négociation collective · dispositions supplétives (à défaut d'accord)."
+      },
+      {
+       "id": "fc-2026-11-06-ue1-02",
+       "q": "Bloc 1 : qui prime, et à quelle condition l'accord d'entreprise s'applique-t-il ?",
+       "a": "La branche ; l'accord d'entreprise seulement s'il assure des garanties au moins équivalentes."
+      },
+      {
+       "id": "fc-2026-11-06-ue1-03",
+       "q": "Un exemple de thème du bloc 1 ?",
+       "a": "Les salaires minima hiérarchiques (ou les classifications, la période d'essai)."
+      },
+      {
+       "id": "fc-2026-11-06-ue1-04",
+       "q": "Bloc 3 : qui prime ? Exemple ?",
+       "a": "L'accord d'entreprise, même moins favorable ; ex. la prime d'ancienneté."
+      },
+      {
+       "id": "fc-2026-11-06-ue1-05",
+       "q": "Principe de faveur ?",
+       "a": "Entre le contrat de travail et la convention collective, on applique la clause la plus favorable au salarié."
+      },
+      {
+       "id": "fc-2026-11-06-ue1-06",
+       "q": "Les 3 critères d'un usage d'entreprise ?",
+       "a": "Généralité, constance, fixité."
+      },
+      {
+       "id": "fc-2026-11-06-ue1-07",
+       "q": "Comment un employeur supprime-t-il un usage ?",
+       "a": "Il le dénonce : information des représentants du personnel et de chaque salarié, délai de prévenance suffisant."
+      },
+      {
+       "id": "fc-2026-11-06-ue1-08",
+       "q": "Les 5 étapes du conflit de normes ?",
+       "a": "Repérer, classer, impérative ou non, principe de faveur, conclure."
+      }
+     ],
+     "qcm": [
+      {
+       "question": "« Est réputée non écrite toute clause contraire » signale une règle :",
+       "options": [
+        "supplétive",
+        "impérative",
+        "coutumière",
+        "morale"
+       ],
+       "correctIndex": 1,
+       "explication": "On ne peut pas y déroger par contrat."
+      },
+      {
+       "question": "Depuis 2016, le Code du travail s'organise souvent en :",
+       "options": [
+        "lois, décrets, arrêtés",
+        "ordre public, champ de la négociation collective, dispositions supplétives",
+        "traités, lois, contrats",
+        "Constitution, lois, usages"
+       ],
+       "correctIndex": 1,
+       "explication": "Architecture de la loi du 8 août 2016."
+      },
+      {
+       "question": "Le salaire minimum hiérarchique fixé par la convention de branche :",
+       "options": [
+        "s'impose à l'accord d'entreprise, sauf garanties au moins équivalentes",
+        "peut toujours être baissé par un accord d'entreprise",
+        "n'a aucune valeur obligatoire",
+        "ne s'applique qu'aux cadres de la branche"
+       ],
+       "correctIndex": 0,
+       "explication": "Thème du bloc 1 (ordonnance de 2017)."
+      },
+      {
+       "question": "Le contrat de travail prévoit une prime plus élevée que la convention collective. On applique :",
+       "options": [
+        "la convention, car elle est supérieure",
+        "la moyenne des deux montants",
+        "la loi, faute de choix possible",
+        "le contrat, grâce au principe de faveur"
+       ],
+       "correctIndex": 3,
+       "explication": "La clause la plus favorable au salarié l'emporte."
+      },
+      {
+       "question": "Un usage d'entreprise suppose une pratique :",
+       "options": [
+        "votée par le Parlement",
+        "signée par les syndicats",
+        "générale, constante et fixe",
+        "validée par le conseil de prud'hommes"
+       ],
+       "correctIndex": 2,
+       "explication": "Les trois critères de la jurisprudence."
+      },
+      {
+       "question": "Une convention collective de branche est :",
+       "options": [
+        "une loi votée pour un secteur",
+        "un accord entre syndicats de salariés et organisations patronales d'un secteur",
+        "un décret du ministre du Travail",
+        "un contrat entre un salarié et son employeur"
+       ],
+       "correctIndex": 1,
+       "explication": "Elle est négociée par les partenaires sociaux du secteur."
+      }
+     ]
+    },
+    {
+     "id": "2026-11-06-aq",
+     "heure": "11:15-11:45",
+     "ue": "UE12",
+     "type": "Anglais quotidien",
+     "titre": "Anglais quotidien · From start-up to SME",
+     "chapId": "ue12-1",
+     "notion": "https://app.notion.com/p/3fc537c42d4b8182a268f5c4c86c4cd3",
+     "video": null,
+     "manuel": "Pas de manuel : article rédigé par Claude dans la page Notion",
+     "resume": "## From start-up to SME\n- **Raise funds** : famille, investisseurs, prêt bancaire\n- Croissance = besoin de **cash** : fournisseurs payés à 30 jours, clients à 60 jours\n- **Profitable on paper but short of cash**\n- **Break even** = seuil de rentabilité\n- Phrase à écrire : *the more…, the more…*",
+     "flashcards": [
+      {
+       "id": "fc-2026-11-06-aq-01",
+       "q": "jeune pousse",
+       "a": "start-up"
+      },
+      {
+       "id": "fc-2026-11-06-aq-02",
+       "q": "PME",
+       "a": "small and medium-sized enterprise (SME)"
+      },
+      {
+       "id": "fc-2026-11-06-aq-03",
+       "q": "chiffre d'affaires",
+       "a": "turnover"
+      },
+      {
+       "id": "fc-2026-11-06-aq-04",
+       "q": "lever des fonds",
+       "a": "to raise funds"
+      },
+      {
+       "id": "fc-2026-11-06-aq-05",
+       "q": "embaucher",
+       "a": "to hire"
+      },
+      {
+       "id": "fc-2026-11-06-aq-06",
+       "q": "manquer de trésorerie",
+       "a": "to be short of cash"
+      },
+      {
+       "id": "fc-2026-11-06-aq-07",
+       "q": "trésorerie (flux)",
+       "a": "cash flow"
+      },
+      {
+       "id": "fc-2026-11-06-aq-08",
+       "q": "atteindre le seuil de rentabilité",
+       "a": "to break even"
+      }
+     ],
+     "qcm": []
+    },
+    {
+     "id": "2026-11-06-ue9",
+     "heure": "14:00-16:30",
+     "ue": "UE9",
+     "type": "Exercices",
+     "titre": "UE 9 · Partie double (2/3)",
+     "chapId": "ue9-2",
+     "notion": "https://app.notion.com/p/3fc537c42d4b8139a48edc2c5914a084",
+     "video": "https://www.youtube.com/watch?v=NRqCw2EOo0w",
+     "manuel": "Vuibert DCG 9, ch. 4 : lire p. 85-92 (III-V enregistrement, journal, 10 min) ; applications p. 93-102 non faites jeudi, priorité journal et balance (60 min ; numéros à relever)",
+     "resume": "## Journal, grand livre, balance\n- **Journal** : ordre chronologique, toujours une **pièce justificative**\n- **Grand livre** : l'ensemble des comptes (report du journal)\n- **Balance** : total des soldes débiteurs = total des soldes créditeurs\n- **Écriture composée** : plus de deux comptes, débits = crédits\n- 401 fournisseurs courants ; **404** fournisseurs d'immobilisations",
+     "flashcards": [
+      {
+       "id": "fc-2026-11-06-ue9-01",
+       "q": "Dans quel ordre le journal enregistre-t-il les opérations ?",
+       "a": "Dans l'ordre chronologique, à partir d'une pièce justificative."
+      },
+      {
+       "id": "fc-2026-11-06-ue9-02",
+       "q": "Qu'est-ce que le grand livre ?",
+       "a": "L'ensemble des comptes de l'entreprise, alimenté par le report des écritures du journal."
+      },
+      {
+       "id": "fc-2026-11-06-ue9-03",
+       "q": "À quoi sert la balance ?",
+       "a": "À lister les comptes et leurs soldes, et à vérifier que total des soldes débiteurs = total des soldes créditeurs."
+      },
+      {
+       "id": "fc-2026-11-06-ue9-04",
+       "q": "Une erreur que la balance ne détecte pas ?",
+       "a": "Une écriture oubliée, ou passée dans le mauvais compte du bon côté."
+      },
+      {
+       "id": "fc-2026-11-06-ue9-05",
+       "q": "401 ou 404 pour l'achat d'un ordinateur à crédit ?",
+       "a": "404 Fournisseurs d'immobilisations."
+      },
+      {
+       "id": "fc-2026-11-06-ue9-06",
+       "q": "Qu'est-ce qu'une écriture composée ?",
+       "a": "Une écriture qui touche plus de deux comptes ; débits = crédits."
+      },
+      {
+       "id": "fc-2026-11-06-ue9-07",
+       "q": "Écriture du dépôt de 500 € d'espèces à la banque ?",
+       "a": "Débit 512 Banque 500 / Crédit 53 Caisse 500."
+      }
+     ],
+     "qcm": [
+      {
+       "question": "Le livre-journal enregistre les opérations :",
+       "options": [
+        "dans l'ordre chronologique",
+        "classées par compte",
+        "seulement à la clôture",
+        "classées par montant"
+       ],
+       "correctIndex": 0,
+       "explication": "Code de commerce : enregistrement chronologique."
+      },
+      {
+       "question": "La balance sert surtout à :",
+       "options": [
+        "vérifier l'égalité des soldes débiteurs et créditeurs",
+        "calculer la TVA à payer",
+        "remplacer le bilan de fin d'année",
+        "enregistrer les factures reçues"
+       ],
+       "correctIndex": 0,
+       "explication": "C'est un outil de contrôle."
+      },
+      {
+       "question": "Une écriture passée sans pièce justificative :",
+       "options": [
+        "est acceptée si le montant est faible",
+        "est contraire aux règles : toute écriture repose sur une pièce",
+        "est obligatoire en fin d'année",
+        "est réservée aux opérations en espèces"
+       ],
+       "correctIndex": 1,
+       "explication": "Pas de pièce, pas d'écriture."
+      },
+      {
+       "question": "Achat d'un ordinateur 1 200 €, payé 400 € par virement et le reste à 30 jours. Les comptes crédités sont :",
+       "options": [
+        "512 et 404",
+        "2183 et 512",
+        "2183 et 404",
+        "607 et 401"
+       ],
+       "correctIndex": 0,
+       "explication": "Banque 400 et fournisseur d'immobilisations 800 au crédit ; 2183 au débit."
+      },
+      {
+       "question": "Le grand livre est :",
+       "options": [
+        "la liste des clients",
+        "le relevé de la banque",
+        "le bilan détaillé",
+        "l'ensemble des comptes de l'entreprise"
+       ],
+       "correctIndex": 3,
+       "explication": "Il regroupe tous les comptes."
+      },
+      {
+       "question": "Le paiement par virement d'une dette fournisseur de 900 € s'enregistre :",
+       "options": [
+        "débit 512, crédit 401",
+        "débit 401, crédit 512",
+        "débit 607, crédit 512",
+        "débit 401, crédit 707"
+       ],
+       "correctIndex": 1,
+       "explication": "La dette diminue (débit 401), la banque diminue (crédit 512)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-07",
+   "jour": "Samedi",
+   "message": "Bilan d'octobre (rattrapage) : commence par les chapitres 🔴. Avant demain 17 h : photos des pages d'exercices DCG 9 ch. 2-3-4 et DCG 1 ch. 4.",
+   "seances": [
+    {
+     "id": "2026-11-07-bilan",
+     "heure": "09:00-11:00",
+     "ue": null,
+     "type": "Bilan",
+     "titre": "Bilan d'octobre (rattrapage) + révision espacée",
+     "chapId": null,
+     "notion": "https://app.notion.com/p/3fc537c42d4b81d1a254dca4fe68f88e",
+     "video": null,
+     "manuel": "Bonus, du plus court au plus long : DCG 1 ch. 1 QCM 9-15 p. 13 (10 min) · DCG 1 ch. 2 « Cas Loroit » p. 40-41 (20 min) · DCG 1 ch. 1 ex. 3 « Cas Potet » p. 17-20 (25 min) · DCG 9 ch. 1 ex. 5 « Meriem » p. 27 (30 min) · DCG 9 ch. 1 ex. 4 p. 26-27 (30 min) · DCG 1 ch. 1 « Cas Bernard » p. 20 (30 min)",
+     "resume": "## Bilan d'octobre et réinjection\n- 🔴 **Définir la comptabilité** : rôles ≠ utilisateurs ; preuve entre commerçants\n- 🟠 **Profession comptable** : monopole de l'EC (1945), H2A, Ordre, CNCC\n- 🟠 **Règle de droit** : contrat oral valable ; loi votée par le Parlement ; branche selon le sujet\n- Méthode des **3 piles** sur les flashcards, puis examen court (15 questions + 5 QCM)\n- **Vidéos de première révision** après le test, seulement sur les notions hésitantes\n- Mise à jour du tableau de bord",
+     "flashcards": [],
+     "qcm": [
+      {
+       "question": "Le principe qui impose de tenir compte d'une perte probable dès la clôture est :",
+       "options": [
+        "la prudence",
+        "le coût historique",
+        "la permanence des méthodes",
+        "l'importance relative"
+       ],
+       "correctIndex": 0,
+       "explication": "On n'attend pas la perte certaine."
+      },
+      {
+       "question": "L'achat de marchandises à crédit s'enregistre :",
+       "options": [
+        "débit 401, crédit 607",
+        "débit 512, crédit 401",
+        "débit 607, crédit 512",
+        "débit 607, crédit 401"
+       ],
+       "correctIndex": 3,
+       "explication": "Charge au débit, dette fournisseur au crédit."
+      },
+      {
+       "question": "Une partie qui conteste, pendant son procès, une loi déjà en vigueur utilise :",
+       "options": [
+        "le recours pour excès de pouvoir",
+        "le contrôle a priori de l'article 61",
+        "le contrôle de conventionnalité",
+        "la question prioritaire de constitutionnalité"
+       ],
+       "correctIndex": 3,
+       "explication": "La QPC (art. 61-1)."
+      },
+      {
+       "question": "Ce qui distingue l'expert-comptable du commissaire aux comptes :",
+       "options": [
+        "seul l'expert-comptable est tenu au secret",
+        "seul le CAC peut tenir la comptabilité",
+        "l'expert-comptable établit les comptes, le CAC les certifie",
+        "le CAC dépend de l'Ordre des experts-comptables"
+       ],
+       "correctIndex": 2,
+       "explication": "L'un construit, l'autre vérifie."
+      },
+      {
+       "question": "Depuis 2017, la prime d'ancienneté relève :",
+       "options": [
+        "du bloc 1, où la branche prime toujours",
+        "du bloc 2, où la branche peut verrouiller",
+        "de l'ordre public, sans dérogation",
+        "du bloc 3, où l'accord d'entreprise prime"
+       ],
+       "correctIndex": 3,
+       "explication": "Hors blocs 1 et 2 → bloc 3."
+      }
+     ]
+    },
+    {
+     "id": "2026-11-07-aq",
+     "heure": "11:15-11:45",
+     "ue": "UE12",
+     "type": "Anglais quotidien",
+     "titre": "Anglais quotidien · Keeping it in the family",
+     "chapId": "ue12-1",
+     "notion": "https://app.notion.com/p/3fc537c42d4b81719907c800073be6ec",
+     "video": null,
+     "manuel": "Pas de manuel : article rédigé par Claude dans la page Notion",
+     "resume": "## Family businesses\n- **Step down / take over** : transmission de la direction\n- Choisir un **successor**, partager les **stakes**, écrire une charte familiale\n- Pression sur la trésorerie : impôts, rachat de parts\n- Force principale : la vision **long-term**\n- Phrase à écrire : *will* et *be going to*",
+     "flashcards": [
+      {
+       "id": "fc-2026-11-07-aq-01",
+       "q": "entreprise familiale",
+       "a": "family business"
+      },
+      {
+       "id": "fc-2026-11-07-aq-02",
+       "q": "quitter ses fonctions",
+       "a": "to step down"
+      },
+      {
+       "id": "fc-2026-11-07-aq-03",
+       "q": "reprendre (la direction)",
+       "a": "to take over"
+      },
+      {
+       "id": "fc-2026-11-07-aq-04",
+       "q": "transmettre",
+       "a": "to hand over / to pass on"
+      },
+      {
+       "id": "fc-2026-11-07-aq-05",
+       "q": "successeur",
+       "a": "successor"
+      },
+      {
+       "id": "fc-2026-11-07-aq-06",
+       "q": "participation (au capital)",
+       "a": "stake"
+      },
+      {
+       "id": "fc-2026-11-07-aq-07",
+       "q": "le personnel",
+       "a": "workforce"
+      },
+      {
+       "id": "fc-2026-11-07-aq-08",
+       "q": "à long terme",
+       "a": "long-term"
+      }
+     ],
+     "qcm": []
+    }
+   ]
+  },
+  {
+   "date": "2026-11-08",
+   "jour": "Dimanche",
+   "message": "Repos ! Avant 17 h, envoie à Claude les photos des pages d'exercices demandées.",
+   "seances": []
+  }
+ ]
+}
