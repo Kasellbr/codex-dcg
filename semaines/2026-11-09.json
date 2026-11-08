@@ -1,0 +1,1438 @@
+{
+ "version": 1,
+ "semaine": "2026-11-09",
+ "genere_le": "2026-11-08",
+ "jours": [
+  {
+   "date": "2026-11-09",
+   "jour": "Lundi",
+   "message": "Journée de rattrapage en compta : Partie double 2/3 le matin (commence par la reprise débit/crédit), 3/3 à 14 h.",
+   "seances": [
+    {
+     "id": "2026-11-09-ue9",
+     "heure": "08:30-11:00",
+     "ue": "UE9",
+     "type": "Exercices",
+     "titre": "UE 9 · Partie double (2/3) · rattrapage",
+     "chapId": "ue9-2",
+     "notion": "https://app.notion.com/p/3fc537c42d4b8139a48edc2c5914a084",
+     "video": "https://www.youtube.com/watch?v=NRqCw2EOo0w",
+     "manuel": "Vuibert DCG 9, ch. 4 : lire p. 85-92 (III-V journal, 10 min) ; QCM 10-15 p. 94 (≈10 min), cas guidé « Briacine » p. 95-98 (≈40 min) ; bonus ex. 3 « Breiz Cycles » ≈ p. 100-101",
+     "resume": "## Reprise débit/crédit, puis journal et balance\n- **Reprise obligatoire (25 min)** : vidéo + 10 écritures (examen 1/3 : 53)\n- **Emploi = débit, ressource = crédit** ; argent qui entre = débit 512/53\n- **101 Capital** seulement pour un apport ; **règlement** = 401 au débit / 512 au crédit\n- **Journal** chronologique, **grand livre** = tous les comptes, **balance** = contrôle\n- **Écriture composée** : plus de deux comptes ; **404** pour une immobilisation à crédit",
+     "flashcards": [
+      {
+       "id": "fc-2026-11-09-ue9-01",
+       "q": "Dans quel ordre le journal enregistre-t-il les opérations ?",
+       "a": "Dans l'ordre chronologique, à partir d'une pièce justificative."
+      },
+      {
+       "id": "fc-2026-11-09-ue9-02",
+       "q": "Qu'est-ce que le grand livre ?",
+       "a": "L'ensemble des comptes de l'entreprise, alimenté par le report des écritures du journal."
+      },
+      {
+       "id": "fc-2026-11-09-ue9-03",
+       "q": "À quoi sert la balance ?",
+       "a": "À lister les comptes et leurs soldes, et à vérifier que total des soldes débiteurs = total des soldes créditeurs."
+      },
+      {
+       "id": "fc-2026-11-09-ue9-04",
+       "q": "Une erreur que la balance ne détecte pas ?",
+       "a": "Une écriture oubliée, ou passée dans le mauvais compte du bon côté."
+      },
+      {
+       "id": "fc-2026-11-09-ue9-05",
+       "q": "401 ou 404 pour l'achat d'un ordinateur à crédit ?",
+       "a": "404 Fournisseurs d'immobilisations."
+      },
+      {
+       "id": "fc-2026-11-09-ue9-06",
+       "q": "Qu'est-ce qu'une écriture composée ?",
+       "a": "Une écriture qui touche plus de deux comptes ; débits = crédits."
+      },
+      {
+       "id": "fc-2026-11-09-ue9-07",
+       "q": "Écriture du dépôt de 500 € d'espèces à la banque ?",
+       "a": "Débit 512 Banque 500 / Crédit 53 Caisse 500."
+      }
+     ],
+     "qcm": [
+      {
+       "question": "Le livre-journal enregistre les opérations :",
+       "options": [
+        "dans l'ordre chronologique",
+        "classées par compte",
+        "seulement à la clôture",
+        "classées par montant"
+       ],
+       "correctIndex": 0,
+       "explication": "Code de commerce : enregistrement chronologique."
+      },
+      {
+       "question": "La balance sert surtout à :",
+       "options": [
+        "vérifier l'égalité des soldes débiteurs et créditeurs",
+        "calculer la TVA à payer",
+        "remplacer le bilan de fin d'année",
+        "enregistrer les factures reçues"
+       ],
+       "correctIndex": 0,
+       "explication": "C'est un outil de contrôle."
+      },
+      {
+       "question": "Une écriture passée sans pièce justificative :",
+       "options": [
+        "est acceptée si le montant est faible",
+        "est contraire aux règles : toute écriture repose sur une pièce",
+        "est obligatoire en fin d'année",
+        "est réservée aux opérations en espèces"
+       ],
+       "correctIndex": 1,
+       "explication": "Pas de pièce, pas d'écriture."
+      },
+      {
+       "question": "Achat d'un ordinateur 1 200 €, payé 400 € par virement et le reste à 30 jours. Les comptes crédités sont :",
+       "options": [
+        "512 et 404",
+        "2183 et 512",
+        "2183 et 404",
+        "607 et 401"
+       ],
+       "correctIndex": 0,
+       "explication": "Banque 400 et fournisseur d'immobilisations 800 au crédit ; 2183 au débit."
+      },
+      {
+       "question": "Le grand livre est :",
+       "options": [
+        "la liste des clients",
+        "le relevé de la banque",
+        "le bilan détaillé",
+        "l'ensemble des comptes de l'entreprise"
+       ],
+       "correctIndex": 3,
+       "explication": "Il regroupe tous les comptes."
+      },
+      {
+       "question": "Le paiement par virement d'une dette fournisseur de 900 € s'enregistre :",
+       "options": [
+        "débit 512, crédit 401",
+        "débit 401, crédit 512",
+        "débit 607, crédit 512",
+        "débit 401, crédit 707"
+       ],
+       "correctIndex": 1,
+       "explication": "La dette diminue (débit 401), la banque diminue (crédit 512)."
+      }
+     ]
+    },
+    {
+     "id": "2026-11-09-aq",
+     "heure": "11:15-11:45",
+     "ue": "UE12",
+     "type": "Anglais quotidien",
+     "titre": "Anglais quotidien · Who has a stake in Brightwell?",
+     "chapId": "ue12-1",
+     "notion": "https://app.notion.com/p/3fc537c42d4b81cf9929f2e4b467edaa",
+     "video": null,
+     "manuel": "Pas de manuel : article rédigé par Claude dans la page Notion",
+     "resume": "## Stakeholders\n- **Stakeholders** : groupes touchés par l'entreprise ou qui peuvent la toucher\n- Internes : **shareholders** (dividendes), employés (**wages**), clients, **suppliers**\n- Externes : la banque, l'État (impôts, règles), la population locale\n- Les intérêts s'opposent parfois : délocaliser pour **cut costs** ?\n- Phrase à écrire : *expect / want + quelqu'un + to + verbe*",
+     "flashcards": [
+      {
+       "id": "fc-2026-11-09-aq-01",
+       "q": "partie prenante",
+       "a": "stakeholder"
+      },
+      {
+       "id": "fc-2026-11-09-aq-02",
+       "q": "actionnaire",
+       "a": "shareholder"
+      },
+      {
+       "id": "fc-2026-11-09-aq-03",
+       "q": "posséder",
+       "a": "to own"
+      },
+      {
+       "id": "fc-2026-11-09-aq-04",
+       "q": "rentabilité de l'investissement",
+       "a": "return on investment"
+      },
+      {
+       "id": "fc-2026-11-09-aq-05",
+       "q": "dividende",
+       "a": "dividend"
+      },
+      {
+       "id": "fc-2026-11-09-aq-06",
+       "q": "salaires (des employés)",
+       "a": "wages"
+      },
+      {
+       "id": "fc-2026-11-09-aq-07",
+       "q": "fournisseur",
+       "a": "supplier"
+      },
+      {
+       "id": "fc-2026-11-09-aq-08",
+       "q": "réduire les coûts",
+       "a": "to cut costs"
+      }
+     ],
+     "qcm": [
+      {
+       "question": "“Stakeholders” are:",
+       "options": [
+        "only the people who own shares",
+        "groups affected by the company or able to affect it",
+        "the managers who run the company every day",
+        "the customers who buy the products"
+       ],
+       "correctIndex": 1,
+       "explication": "Toutes les personnes et organisations touchées par l'entreprise."
+      },
+      {
+       "question": "What did Brightwell finally decide?",
+       "options": [
+        "to move all its production abroad",
+        "to sell the factory to a competitor",
+        "to keep the factory and invest in machines",
+        "to close the factory for a whole year"
+       ],
+       "correctIndex": 2,
+       "explication": "« Keep the factory in Lyon and invest in new machines »."
+      },
+      {
+       "question": "Which stakeholder “collects taxes and makes the rules”?",
+       "options": [
+        "the bank",
+        "the suppliers",
+        "the state",
+        "the local community"
+       ],
+       "correctIndex": 2,
+       "explication": "The state = l'État."
+      }
+     ]
+    },
+    {
+     "id": "2026-11-09-ue9-2",
+     "heure": "14:00-16:30",
+     "ue": "UE9",
+     "type": "Exercices",
+     "titre": "UE 9 · Partie double (3/3)",
+     "chapId": "ue9-2",
+     "notion": "https://app.notion.com/p/3fc537c42d4b810f8709e5061123bb67",
+     "video": "https://www.youtube.com/watch?v=NRqCw2EOo0w",
+     "manuel": "Vuibert DCG 9, ch. 4 : lire p. 80-84 (II-B mécanismes, 10 min) ; ex. 1 « Jardiver » p. 99 (refaire les erreurs, 10 min), cas de synthèse « Artgolf » p. 102 (30 min), ex. 3 « Breiz Cycles » ≈ p. 100-101 (20 min, ou ex. 2 « Bilanpro »)",
+     "resume": "## Les 8 écritures types\n- Actif et charges augmentent au **débit** ; passif et produits au **crédit**\n- Réflexe : commence par la **trésorerie** (argent qui entre = débit 512/53)\n- Achat à crédit 607/401 ; règlement 401/512 ; vente à crédit 411/707 ; encaissement 512/411\n- Remboursement d'emprunt **164/512** ; ordinateur à crédit **2183/404**\n- **Résultat = produits (7) − charges (6)** : emprunt remboursé et matériel ne sont pas des charges",
+     "flashcards": [
+      {
+       "id": "fc-2026-11-09-ue9-2-01",
+       "q": "Écriture d'un achat de marchandises à crédit ?",
+       "a": "Débit 607 Achats de marchandises / Crédit 401 Fournisseurs."
+      },
+      {
+       "id": "fc-2026-11-09-ue9-2-02",
+       "q": "Écriture du paiement de ce fournisseur par virement ?",
+       "a": "Débit 401 Fournisseurs / Crédit 512 Banque (la dette disparaît, l'argent sort)."
+      },
+      {
+       "id": "fc-2026-11-09-ue9-2-03",
+       "q": "Écriture d'une vente à crédit, puis de son encaissement ?",
+       "a": "Vente : débit 411 Clients / crédit 707 Ventes. Encaissement : débit 512 Banque / crédit 411 Clients."
+      },
+      {
+       "id": "fc-2026-11-09-ue9-2-04",
+       "q": "Quand le compte 101 Capital bouge-t-il ?",
+       "a": "Seulement quand le propriétaire apporte (ou reprend) des capitaux. Ce n'est jamais le compte qui paie."
+      },
+      {
+       "id": "fc-2026-11-09-ue9-2-05",
+       "q": "Remboursement d'un emprunt (part de capital) par virement ?",
+       "a": "Débit 164 Emprunts / Crédit 512 Banque. Ce n'est pas une charge."
+      },
+      {
+       "id": "fc-2026-11-09-ue9-2-06",
+       "q": "Achat d'un ordinateur à crédit ?",
+       "a": "Débit 2183 Matériel de bureau et informatique / Crédit 404 Fournisseurs d'immobilisations."
+      },
+      {
+       "id": "fc-2026-11-09-ue9-2-07",
+       "q": "Le réflexe pour ne pas inverser débit et crédit ?",
+       "a": "Commencer par la trésorerie : l'argent entre = débit 512 ou 53 ; l'argent sort = crédit 512 ou 53."
+      },
+      {
+       "id": "fc-2026-11-09-ue9-2-08",
+       "q": "Quels comptes forment le résultat ?",
+       "a": "Les classes 6 (charges) et 7 (produits) : résultat = produits − charges."
+      }
+     ],
+     "qcm": [
+      {
+       "question": "Le remboursement par virement de 2 000 € d'emprunt (part de capital) s'enregistre :",
+       "options": [
+        "débit 164, crédit 512",
+        "débit 512, crédit 164",
+        "débit 661, crédit 512",
+        "débit 164, crédit 101"
+       ],
+       "correctIndex": 0,
+       "explication": "La dette diminue (débit 164), l'argent sort (crédit 512)."
+      },
+      {
+       "question": "Un client paie par chèque une facture de 600 € déjà enregistrée :",
+       "options": [
+        "débit 411, crédit 707",
+        "débit 512, crédit 411",
+        "débit 512, crédit 707",
+        "débit 707, crédit 411"
+       ],
+       "correctIndex": 1,
+       "explication": "L'argent entre, la créance client disparaît."
+      },
+      {
+       "question": "Le compte 101 Capital est mouvementé quand :",
+       "options": [
+        "l'entreprise paie un fournisseur",
+        "l'entreprise encaisse une vente",
+        "le propriétaire apporte de l'argent à l'entreprise",
+        "la banque accorde un emprunt"
+       ],
+       "correctIndex": 2,
+       "explication": "Le capital = les apports des propriétaires."
+      },
+      {
+       "question": "Le compte 401 totalise 2 500 au crédit et 1 800 au débit. Son solde est :",
+       "options": [
+        "débiteur de 700",
+        "créditeur de 700",
+        "créditeur de 4 300",
+        "débiteur de 4 300"
+       ],
+       "correctIndex": 1,
+       "explication": "Crédits > débits : solde créditeur de 700."
+      },
+      {
+       "question": "Achat d'un ordinateur 900 €, payable dans 30 jours :",
+       "options": [
+        "débit 2183, crédit 404",
+        "débit 607, crédit 401",
+        "débit 2183, crédit 401",
+        "débit 404, crédit 2183"
+       ],
+       "correctIndex": 0,
+       "explication": "Immobilisation au débit, fournisseur d'immobilisations au crédit."
+      },
+      {
+       "question": "Le solde normal du compte 707 Ventes de marchandises est :",
+       "options": [
+        "créditeur",
+        "débiteur",
+        "toujours nul",
+        "débiteur ou créditeur selon le mois"
+       ],
+       "correctIndex": 0,
+       "explication": "Un produit s'enregistre au crédit."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "jour": "Mardi",
+   "message": "UE 1 Règle de droit 3/4 puis test d'anglais à 11 h 15 : sans dictionnaire, et envoie tes résultats à Claude.",
+   "seances": [
+    {
+     "id": "2026-11-10-ue1",
+     "heure": "08:30-11:00",
+     "ue": "UE1",
+     "type": "Cours",
+     "titre": "UE 1 · Règle de droit et sources (3/4) · rattrapage",
+     "chapId": "ue1-1",
+     "notion": "https://app.notion.com/p/3fc537c42d4b81988b7bed3baeabfe8b",
+     "video": "https://www.youtube.com/watch?v=3SCkMsINGBI",
+     "manuel": "Vuibert DCG 1, ch. 2 : lire p. 27-29 (II Hiérarchie des normes et contrôles, 10-15 min) ; QCM 10-15 p. 31 (10 min), ex. 1 « Cas Elena Paltan » p. 36 (10 min), ex. 2 « Cas Annabelle Dupont » p. 37 (15 min)",
+     "resume": "## Hiérarchie des normes et contrôles\n- Pyramide : **constitutionnalité** > **conventionnalité** (traités, UE ; art. 55) > lois > règlements > contrats\n- **Contrôle de constitutionnalité** : a priori (art. 61) ou **QPC** (art. 61-1, pendant un procès)\n- **Conventionnalité** : tous les juges écartent la loi contraire à un traité\n- **Légalité** : le juge administratif annule un règlement illégal (recours pour excès de pouvoir, 2 mois)\n- Rappel du 7 nov. : clause contraire à une règle impérative = écartée, le contrat reste valable",
+     "flashcards": [
+      {
+       "id": "fc-2026-11-10-ue1-01",
+       "q": "Quelles normes forment le bloc de constitutionnalité ?",
+       "a": "Constitution de 1958, DDHC de 1789, Préambule de 1946, Charte de l'environnement de 2004."
+      },
+      {
+       "id": "fc-2026-11-10-ue1-02",
+       "q": "Que dit l'article 55 de la Constitution ?",
+       "a": "Un traité régulièrement ratifié a une autorité supérieure à celle des lois (sous réserve de réciprocité)."
+      },
+      {
+       "id": "fc-2026-11-10-ue1-03",
+       "q": "Qui peut saisir le Conseil constitutionnel avant la promulgation d'une loi ?",
+       "a": "Le Président, le Premier ministre, les présidents des deux assemblées, 60 députés ou 60 sénateurs."
+      },
+      {
+       "id": "fc-2026-11-10-ue1-04",
+       "q": "QPC : qui, quand, quel effet ?",
+       "a": "Une partie à un procès, contre une loi déjà en vigueur ; filtre Cour de cassation / Conseil d'État ; si inconstitutionnelle, la loi est abrogée."
+      },
+      {
+       "id": "fc-2026-11-10-ue1-05",
+       "q": "Contrôle de conventionnalité : qui le fait et avec quel effet ?",
+       "a": "Tous les juges ordinaires ; ils écartent la loi contraire au traité (sans l'annuler)."
+      },
+      {
+       "id": "fc-2026-11-10-ue1-06",
+       "q": "Comment conteste-t-on un décret contraire à une loi ?",
+       "a": "Recours pour excès de pouvoir devant le juge administratif, en principe dans les 2 mois ; le décret peut être annulé."
+      },
+      {
+       "id": "fc-2026-11-10-ue1-07",
+       "q": "Projet de loi ou proposition de loi ?",
+       "a": "Projet = Gouvernement ; proposition = parlementaires."
+      },
+      {
+       "id": "fc-2026-11-10-ue1-08",
+       "q": "Qui a le dernier mot en cas de désaccord entre les assemblées ?",
+       "a": "L'Assemblée nationale, si le Gouvernement le lui demande (après l'échec de la commission mixte paritaire)."
+      }
+     ],
+     "qcm": [
+      {
+       "question": "Au sommet de la hiérarchie des normes en droit interne, on trouve :",
+       "options": [
+        "les traités internationaux",
+        "les lois organiques",
+        "le bloc de constitutionnalité",
+        "les règlements européens"
+       ],
+       "correctIndex": 2,
+       "explication": "En droit interne, la Constitution reste au sommet."
+      },
+      {
+       "question": "La QPC permet :",
+       "options": [
+        "au Président de saisir le Conseil constitutionnel avant la promulgation",
+        "au juge administratif d'annuler un décret illégal",
+        "à un juge d'écarter une loi contraire à un traité",
+        "à une partie à un procès de contester une loi déjà en vigueur"
+       ],
+       "correctIndex": 3,
+       "explication": "Art. 61-1, contrôle a posteriori."
+      },
+      {
+       "question": "Un décret contraire à une loi est contrôlé par :",
+       "options": [
+        "le Conseil constitutionnel",
+        "la Cour de justice de l'Union européenne",
+        "le Parlement, par un vote de censure",
+        "le juge administratif, qui peut l'annuler"
+       ],
+       "correctIndex": 3,
+       "explication": "Contrôle de légalité par recours pour excès de pouvoir."
+      },
+      {
+       "question": "Un texte déposé par des sénateurs s'appelle :",
+       "options": [
+        "un projet de loi",
+        "une ordonnance",
+        "une proposition de loi",
+        "un décret d'application"
+       ],
+       "correctIndex": 2,
+       "explication": "Proposition = initiative parlementaire."
+      },
+      {
+       "question": "En cas de désaccord persistant entre les deux assemblées, le dernier mot peut revenir :",
+       "options": [
+        "à l'Assemblée nationale",
+        "au Sénat",
+        "au Conseil constitutionnel",
+        "au Président de la République"
+       ],
+       "correctIndex": 0,
+       "explication": "Après la CMP, à la demande du Gouvernement."
+      },
+      {
+       "question": "D'après l'article 55 de la Constitution, un traité régulièrement ratifié a :",
+       "options": [
+        "une autorité supérieure à celle des lois",
+        "la même valeur qu'un décret",
+        "une valeur supérieure à la Constitution",
+        "la même valeur qu'une loi ordinaire"
+       ],
+       "correctIndex": 0,
+       "explication": "Supériorité sur la loi, sous réserve de réciprocité."
+      }
+     ]
+    },
+    {
+     "id": "2026-11-10-ca",
+     "heure": "11:15-12:15",
+     "ue": "UE12",
+     "type": "Cours d'anglais",
+     "titre": "Cours d'anglais · Test de niveau (1/2) · rattrapage",
+     "chapId": "ue12-0",
+     "notion": "https://app.notion.com/p/3fc537c42d4b81c29ba6d037fb0d8380",
+     "video": null,
+     "manuel": "Pas de manuel : test rédigé par Claude dans la page Notion (sans dictionnaire ni traducteur)",
+     "resume": "## Test de niveau (1/2)\n- Partie A : grammaire et vocabulaire, 25 questions (20 min)\n- Partie B : compréhension écrite (15 min)\n- Partie C : e-mail professionnel de 100-130 mots (15 min)\n- Partie D : auto-évaluation CECRL\n- **Envoie à Claude** ton e-mail, tes scores A et B et tes coches avant jeudi",
+     "flashcards": [],
+     "qcm": [
+      {
+       "question": "She ___ in Montpellier since 2024.",
+       "options": [
+        "lives",
+        "has lived",
+        "is living",
+        "lived"
+       ],
+       "correctIndex": 1,
+       "explication": "Since 2024 → present perfect."
+      },
+      {
+       "question": "I ___ to the bank yesterday.",
+       "options": [
+        "go",
+        "have gone",
+        "went",
+        "was go"
+       ],
+       "correctIndex": 2,
+       "explication": "Yesterday = moment précis terminé → past simple."
+      },
+      {
+       "question": "There aren't ___ invoices left to check.",
+       "options": [
+        "some",
+        "no",
+        "much",
+        "any"
+       ],
+       "correctIndex": 3,
+       "explication": "Phrase négative → any."
+      },
+      {
+       "question": "If the client pays late, we ___ him a reminder.",
+       "options": [
+        "will send",
+        "would send",
+        "sent",
+        "sending"
+       ],
+       "correctIndex": 0,
+       "explication": "First conditional : if + présent, will + verbe."
+      },
+      {
+       "question": "The meeting was ___ than I expected.",
+       "options": [
+        "more long",
+        "longer",
+        "longest",
+        "as long"
+       ],
+       "correctIndex": 1,
+       "explication": "Comparatif d'un adjectif court : -er than."
+      },
+      {
+       "question": "Our accountant is used to ___ under pressure.",
+       "options": [
+        "work",
+        "working",
+        "worked",
+        "works"
+       ],
+       "correctIndex": 1,
+       "explication": "Be used to + -ing."
+      },
+      {
+       "question": "By the end of the year, the company ___ 50 new employees.",
+       "options": [
+        "will have hired",
+        "will hire",
+        "has hired",
+        "hires"
+       ],
+       "correctIndex": 0,
+       "explication": "By the end of… → future perfect."
+      },
+      {
+       "question": "The report ___ by the auditor last week.",
+       "options": [
+        "has checked",
+        "was checked",
+        "checked",
+        "is checked"
+       ],
+       "correctIndex": 1,
+       "explication": "Passif au passé : was + participe."
+      },
+      {
+       "question": "In British business English, a company's “turnover” usually means its:",
+       "options": [
+        "revenue (sales)",
+        "number of employees",
+        "profit",
+        "debt"
+       ],
+       "correctIndex": 0,
+       "explication": "Turnover = chiffre d'affaires."
+      },
+      {
+       "question": "A company's “liabilities” are:",
+       "options": [
+        "what it owns",
+        "its profits",
+        "its customers",
+        "what it owes"
+       ],
+       "correctIndex": 3,
+       "explication": "Liabilities = dettes (ce que l'entreprise doit)."
+      },
+      {
+       "question": "I wish I ___ more time to study.",
+       "options": [
+        "have",
+        "will have",
+        "am having",
+        "had"
+       ],
+       "correctIndex": 3,
+       "explication": "I wish + prétérit pour un regret présent."
+      },
+      {
+       "question": "He asked me where ___.",
+       "options": [
+        "did I work",
+        "do I work",
+        "I worked",
+        "I am work"
+       ],
+       "correctIndex": 2,
+       "explication": "Discours indirect : pas d'inversion sujet-verbe."
+      },
+      {
+       "question": "We need to ___ the deadline: the client wants the files on Friday.",
+       "options": [
+        "reach",
+        "meet",
+        "do",
+        "make"
+       ],
+       "correctIndex": 1,
+       "explication": "Meet a deadline = respecter un délai."
+      },
+      {
+       "question": "Despite ___ the risks, they invested.",
+       "options": [
+        "knowing",
+        "know",
+        "they knew",
+        "of knowing"
+       ],
+       "correctIndex": 0,
+       "explication": "Despite + -ing."
+      },
+      {
+       "question": "Hardly ___ the contract when the price went up.",
+       "options": [
+        "we had signed",
+        "we signed",
+        "did we signed",
+        "had we signed"
+       ],
+       "correctIndex": 3,
+       "explication": "Hardly… when : inversion (had we signed)."
+      },
+      {
+       "question": "Because of falling sales, the firm decided to ___ 20% of its staff.",
+       "options": [
+        "lay down",
+        "put off",
+        "lay off",
+        "take off"
+       ],
+       "correctIndex": 2,
+       "explication": "Lay off = licencier (économique)."
+      },
+      {
+       "question": "“Shareholders” are:",
+       "options": [
+        "people who lend money to a company",
+        "people who buy the company's products",
+        "people who manage the company daily",
+        "people who own shares in a company"
+       ],
+       "correctIndex": 3,
+       "explication": "Shareholders = actionnaires."
+      },
+      {
+       "question": "Unless the figures ___ correct, the auditor will not sign.",
+       "options": [
+        "aren't",
+        "will be",
+        "won't be",
+        "are"
+       ],
+       "correctIndex": 3,
+       "explication": "Unless = sauf si, + présent."
+      },
+      {
+       "question": "She ___ have left already: her coat is gone.",
+       "options": [
+        "must",
+        "can't",
+        "should",
+        "needs"
+       ],
+       "correctIndex": 0,
+       "explication": "Must have + participe = déduction quasi certaine."
+      },
+      {
+       "question": "It's high time we ___ a decision.",
+       "options": [
+        "make",
+        "will make",
+        "made",
+        "are making"
+       ],
+       "correctIndex": 2,
+       "explication": "It's high time + prétérit."
+      },
+      {
+       "question": "The CFO, ___ office is on the third floor, will join us.",
+       "options": [
+        "whose",
+        "who",
+        "which",
+        "that"
+       ],
+       "correctIndex": 0,
+       "explication": "Whose = dont (possession)."
+      },
+      {
+       "question": "“Cash flow” refers to:",
+       "options": [
+        "the profit shown at the end of the year",
+        "the total value of the company's assets",
+        "the money moving in and out of a business",
+        "the tax paid on the company's sales"
+       ],
+       "correctIndex": 2,
+       "explication": "Cash flow = flux de trésorerie."
+      },
+      {
+       "question": "Had the bank approved the loan, we ___ the new warehouse.",
+       "options": [
+        "would buy",
+        "will buy",
+        "would have bought",
+        "had bought"
+       ],
+       "correctIndex": 2,
+       "explication": "Conditionnel passé inversé : had + sujet…, would have + participe."
+      },
+      {
+       "question": "Which is the most appropriate opening for a formal email?",
+       "options": [
+        "Thank you for your email of 12 October",
+        "Thanks a lot for your mail",
+        "Cheers for the email",
+        "Thx for writing"
+       ],
+       "correctIndex": 0,
+       "explication": "Registre formel : Thank you for your email of…"
+      },
+      {
+       "question": "The new regulation is likely to ___ small businesses the most.",
+       "options": [
+        "effect",
+        "affect",
+        "afflict",
+        "infect"
+       ],
+       "correctIndex": 1,
+       "explication": "Affect = verbe (toucher) ; effect = nom."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-11",
+   "jour": "Mercredi",
+   "message": "11 novembre, jour férié : repos complet. Si tu veux, 10 min de flashcards Partie double.",
+   "seances": []
+  },
+  {
+   "date": "2026-11-12",
+   "jour": "Jeudi",
+   "message": "Nouveau chapitre en compta : l'organisation comptable. Oral d'anglais avec Claude à 11 h 15 (écris « Ready for speaking »).",
+   "seances": [
+    {
+     "id": "2026-11-12-ue9",
+     "heure": "08:30-11:00",
+     "ue": "UE9",
+     "type": "Cours",
+     "titre": "UE 9 · Du journal aux comptes annuels (1/4)",
+     "chapId": "ue9-2",
+     "notion": "https://app.notion.com/p/3fc537c42d4b81d2ac55c470c032ab2b",
+     "video": "https://www.youtube.com/watch?v=NNiYGN6oiMk",
+     "manuel": "Vuibert DCG 9 : lire ch. 3 I p. 52-53 et ch. 4 III-IV p. 85-88 (10-15 min) ; applications du ch. 3 : QCM p. 59 sur l'organisation (≈10 min), cas pratique guidé p. 64 (≈30 min) ; numéros exacts dès réception des photos p. 59-73",
+     "resume": "## L'organisation comptable\n- Chaîne : **pièce → journal → grand livre → balance → inventaire → comptes annuels**\n- Obligations : livre-journal et grand livre (R123-173), inventaire annuel, **conservation 10 ans** (L123-22), **FEC** en cas de contrôle\n- **Facture électronique** : réception obligatoire pour tous depuis le 1er sept. 2026 ; émission PME/TPE au 1er sept. 2027\n- **Journaux auxiliaires** : achats, ventes, banque, caisse, OD, puis centralisation\n- **Engagement** (à la facture) ou **trésorerie** (au paiement) ; on corrige par une nouvelle écriture",
+     "flashcards": [
+      {
+       "id": "fc-2026-11-12-ue9-01",
+       "q": "Les 6 étapes de la chaîne comptable ?",
+       "a": "Pièce justificative → journal → grand livre → balance → inventaire → comptes annuels."
+      },
+      {
+       "id": "fc-2026-11-12-ue9-02",
+       "q": "Quels livres comptables sont obligatoires pour une société commerciale ?",
+       "a": "Le livre-journal et le grand livre (C. com. art. R123-173). L'inventaire reste obligatoire, plus le livre d'inventaire."
+      },
+      {
+       "id": "fc-2026-11-12-ue9-03",
+       "q": "Combien de temps conserver les pièces et documents comptables ?",
+       "a": "10 ans à compter de la clôture de l'exercice (C. com. art. L123-22)."
+      },
+      {
+       "id": "fc-2026-11-12-ue9-04",
+       "q": "Qu'est-ce que le FEC ?",
+       "a": "Le fichier des écritures comptables : un fichier normé de toutes les écritures, à remettre à l'administration en cas de contrôle fiscal (LPF art. L47 A)."
+      },
+      {
+       "id": "fc-2026-11-12-ue9-05",
+       "q": "Facture électronique : quelles dates retenir ?",
+       "a": "1er sept. 2026 : toutes les entreprises reçoivent, grandes entreprises et ETI émettent. 1er sept. 2027 : PME, TPE et micro-entreprises émettent."
+      },
+      {
+       "id": "fc-2026-11-12-ue9-06",
+       "q": "Dans quel journal auxiliaire enregistre-t-on une facture reçue d'un fournisseur ? Son paiement par virement ?",
+       "a": "La facture : journal des achats. Le paiement : journal de banque."
+      },
+      {
+       "id": "fc-2026-11-12-ue9-07",
+       "q": "Qu'est-ce que la centralisation ?",
+       "a": "Le regroupement périodique (souvent mensuel) des journaux auxiliaires dans le journal général."
+      },
+      {
+       "id": "fc-2026-11-12-ue9-08",
+       "q": "Comptabilité d'engagement : quand enregistre-t-on une vente ?",
+       "a": "Dès la naissance de la créance (date de la facture), puis à nouveau au règlement."
+      },
+      {
+       "id": "fc-2026-11-12-ue9-09",
+       "q": "Comment corrige-t-on une écriture validée qui est fausse ?",
+       "a": "Par une nouvelle écriture (annulation de la fausse, puis la bonne). On n'efface jamais."
+      }
+     ],
+     "qcm": [
+      {
+       "question": "L'ordre logique des travaux comptables est :",
+       "options": [
+        "journal → pièce → balance → grand livre",
+        "grand livre → journal → balance → bilan",
+        "pièce → balance → journal → bilan",
+        "pièce → journal → grand livre → balance"
+       ],
+       "correctIndex": 3,
+       "explication": "On part toujours de la pièce justificative."
+      },
+      {
+       "question": "Les livres et les pièces comptables se conservent :",
+       "options": [
+        "3 ans à compter de la clôture",
+        "5 ans à compter de la clôture",
+        "6 ans à compter de la clôture",
+        "10 ans à compter de la clôture"
+       ],
+       "correctIndex": 3,
+       "explication": "C. com. art. L123-22 (le délai fiscal de 6 ans est plus court)."
+      },
+      {
+       "question": "Une facture fournisseur reçue, pas encore payée, s'enregistre dans le journal :",
+       "options": [
+        "de banque",
+        "des ventes",
+        "des achats",
+        "de caisse"
+       ],
+       "correctIndex": 2,
+       "explication": "La banque n'intervient qu'au paiement."
+      },
+      {
+       "question": "En comptabilité d'engagement, une vente est enregistrée :",
+       "options": [
+        "au moment de l'encaissement",
+        "dès la naissance de la créance (date de la facture)",
+        "à la clôture de l'exercice",
+        "à la fin du mois suivant"
+       ],
+       "correctIndex": 1,
+       "explication": "Puis une deuxième écriture au règlement."
+      },
+      {
+       "question": "Depuis le 1er septembre 2026, toutes les entreprises doivent :",
+       "options": [
+        "émettre toutes leurs factures en électronique",
+        "être capables de recevoir des factures électroniques",
+        "déposer leur FEC chaque mois",
+        "tenir un livre d'inventaire"
+       ],
+       "correctIndex": 1,
+       "explication": "L'émission pour les PME et TPE arrive le 1er sept. 2027."
+      },
+      {
+       "question": "Une écriture validée contient une erreur. On doit :",
+       "options": [
+        "passer une écriture de correction",
+        "l'effacer et la ressaisir",
+        "la laisser jusqu'à la clôture",
+        "la barrer au stylo rouge"
+       ],
+       "correctIndex": 0,
+       "explication": "Une écriture validée ne s'efface pas."
+      }
+     ]
+    },
+    {
+     "id": "2026-11-12-ca",
+     "heure": "11:15-12:15",
+     "ue": "UE12",
+     "type": "Cours d'anglais",
+     "titre": "Cours d'anglais · Test de niveau (2/2) · rattrapage",
+     "chapId": "ue12-0",
+     "notion": "https://app.notion.com/p/3fc537c42d4b8154bc82d9e463d754d8",
+     "video": null,
+     "manuel": "Pas de manuel : écoute BBC Learning English « 6 Minute English » + oral avec Claude dans le chat",
+     "resume": "## Test de niveau (2/2) et present perfect\n- Partie E : compréhension orale (BBC 6 Minute English)\n- Partie F : oral avec Claude, écris « Ready for speaking » dans le chat\n- Correction de ton e-mail de mardi\n- **Past simple** = moment terminé et précis (yesterday, ago, in 2023)\n- **Present perfect** = lien avec maintenant (since, for, already, yet, ever)",
+     "flashcards": [
+      {
+       "id": "fc-2026-11-12-ca-01",
+       "q": "J'habite à Montpellier depuis 2024 (en anglais) ?",
+       "a": "I have lived in Montpellier since 2024."
+      },
+      {
+       "id": "fc-2026-11-12-ca-02",
+       "q": "J'ai envoyé la facture hier (en anglais) ?",
+       "a": "I sent the invoice yesterday."
+      },
+      {
+       "id": "fc-2026-11-12-ca-03",
+       "q": "Since ou for : « depuis trois ans » ?",
+       "a": "For three years (for + durée ; since + point de départ)."
+      },
+      {
+       "id": "fc-2026-11-12-ca-04",
+       "q": "Past simple ou present perfect avec yesterday, last week, ago ?",
+       "a": "Past simple (moment terminé et précis)."
+      },
+      {
+       "id": "fc-2026-11-12-ca-05",
+       "q": "Formule polie pour demander un document dans un e-mail ?",
+       "a": "Could you please send me… by (date)?"
+      }
+     ],
+     "qcm": []
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "jour": "Vendredi",
+   "message": "Dernière séance du chapitre Règle de droit : méthode du conflit de normes, étape par étape.",
+   "seances": [
+    {
+     "id": "2026-11-13-ue1",
+     "heure": "08:30-11:00",
+     "ue": "UE1",
+     "type": "Exercices",
+     "titre": "UE 1 · Règle de droit et sources (4/4) · rattrapage",
+     "chapId": "ue1-1",
+     "notion": "https://app.notion.com/p/3fc537c42d4b81b5a7f2e42dc8c319b6",
+     "video": "https://www.youtube.com/watch?v=3SCkMsINGBI",
+     "manuel": "Vuibert DCG 1, ch. 2 : pas de lecture ; ex. 4 « Cas stage DCG » p. 38-39 (20 min), cas guidé « Les cours de Jules Petiot » p. 31-35 (≈40 min) ; bonus samedi : cas de synthèse « Cas Loroit » p. 40-41 (20 min)",
+     "resume": "## Conflit de normes en droit du travail\n- Méthode : repérer, classer, impérative ou non, principe de faveur, conclure\n- Code du travail (2016) : **ordre public**, **champ de la négociation collective**, **dispositions supplétives**\n- Branche / entreprise (2017) : **bloc 1** la branche prime (salaires minima), **bloc 2** verrouillage possible, **bloc 3** l'accord d'entreprise prime (prime d'ancienneté)\n- **Principe de faveur** entre contrat et convention\n- **Usage** : général, constant, fixe ; supprimé seulement par dénonciation",
+     "flashcards": [
+      {
+       "id": "fc-2026-11-13-ue1-01",
+       "q": "Les 3 étages du Code du travail depuis 2016 ?",
+       "a": "Ordre public · champ de la négociation collective · dispositions supplétives (à défaut d'accord)."
+      },
+      {
+       "id": "fc-2026-11-13-ue1-02",
+       "q": "Bloc 1 : qui prime, et à quelle condition l'accord d'entreprise s'applique-t-il ?",
+       "a": "La branche ; l'accord d'entreprise seulement s'il assure des garanties au moins équivalentes."
+      },
+      {
+       "id": "fc-2026-11-13-ue1-03",
+       "q": "Un exemple de thème du bloc 1 ?",
+       "a": "Les salaires minima hiérarchiques (ou les classifications, la période d'essai)."
+      },
+      {
+       "id": "fc-2026-11-13-ue1-04",
+       "q": "Bloc 3 : qui prime ? Exemple ?",
+       "a": "L'accord d'entreprise, même moins favorable ; ex. la prime d'ancienneté."
+      },
+      {
+       "id": "fc-2026-11-13-ue1-05",
+       "q": "Principe de faveur ?",
+       "a": "Entre le contrat de travail et la convention collective, on applique la clause la plus favorable au salarié."
+      },
+      {
+       "id": "fc-2026-11-13-ue1-06",
+       "q": "Les 3 critères d'un usage d'entreprise ?",
+       "a": "Généralité, constance, fixité."
+      },
+      {
+       "id": "fc-2026-11-13-ue1-07",
+       "q": "Comment un employeur supprime-t-il un usage ?",
+       "a": "Il le dénonce : information des représentants du personnel et de chaque salarié, délai de prévenance suffisant."
+      },
+      {
+       "id": "fc-2026-11-13-ue1-08",
+       "q": "Les 5 étapes du conflit de normes ?",
+       "a": "Repérer, classer, impérative ou non, principe de faveur, conclure."
+      }
+     ],
+     "qcm": [
+      {
+       "question": "« Est réputée non écrite toute clause contraire » signale une règle :",
+       "options": [
+        "supplétive",
+        "impérative",
+        "coutumière",
+        "morale"
+       ],
+       "correctIndex": 1,
+       "explication": "On ne peut pas y déroger par contrat."
+      },
+      {
+       "question": "Depuis 2016, le Code du travail s'organise souvent en :",
+       "options": [
+        "lois, décrets, arrêtés",
+        "ordre public, champ de la négociation collective, dispositions supplétives",
+        "traités, lois, contrats",
+        "Constitution, lois, usages"
+       ],
+       "correctIndex": 1,
+       "explication": "Architecture de la loi du 8 août 2016."
+      },
+      {
+       "question": "Le salaire minimum hiérarchique fixé par la convention de branche :",
+       "options": [
+        "s'impose à l'accord d'entreprise, sauf garanties au moins équivalentes",
+        "peut toujours être baissé par un accord d'entreprise",
+        "n'a aucune valeur obligatoire",
+        "ne s'applique qu'aux cadres de la branche"
+       ],
+       "correctIndex": 0,
+       "explication": "Thème du bloc 1 (ordonnance de 2017)."
+      },
+      {
+       "question": "Le contrat de travail prévoit une prime plus élevée que la convention collective. On applique :",
+       "options": [
+        "la convention, car elle est supérieure",
+        "la moyenne des deux montants",
+        "la loi, faute de choix possible",
+        "le contrat, grâce au principe de faveur"
+       ],
+       "correctIndex": 3,
+       "explication": "La clause la plus favorable au salarié l'emporte."
+      },
+      {
+       "question": "Un usage d'entreprise suppose une pratique :",
+       "options": [
+        "votée par le Parlement",
+        "signée par les syndicats",
+        "générale, constante et fixe",
+        "validée par le conseil de prud'hommes"
+       ],
+       "correctIndex": 2,
+       "explication": "Les trois critères de la jurisprudence."
+      },
+      {
+       "question": "Une convention collective de branche est :",
+       "options": [
+        "une loi votée pour un secteur",
+        "un accord entre syndicats de salariés et organisations patronales d'un secteur",
+        "un décret du ministre du Travail",
+        "un contrat entre un salarié et son employeur"
+       ],
+       "correctIndex": 1,
+       "explication": "Elle est négociée par les partenaires sociaux du secteur."
+      }
+     ]
+    },
+    {
+     "id": "2026-11-13-aq",
+     "heure": "11:15-11:45",
+     "ue": "UE12",
+     "type": "Anglais quotidien",
+     "titre": "Anglais quotidien · Profit or purpose?",
+     "chapId": "ue12-1",
+     "notion": "https://app.notion.com/p/3fc537c42d4b810ab4b6db110755c5b2",
+     "video": null,
+     "manuel": "Pas de manuel : article rédigé par Claude dans la page Notion",
+     "resume": "## Profit or purpose?\n- Vision **actionnariale** (Friedman, 1970) : l'entreprise sert d'abord ses propriétaires\n- Vision **parties prenantes** : réussir sur le **long term** suppose de respecter salariés, clients, environnement\n- France : loi **PACTE** (2019), *raison d'être*, *société à mission* (Danone en 2020)\n- Critique : facile à écrire, difficile à mesurer\n- Phrase à écrire avec **whereas** ou **although**",
+     "flashcards": [
+      {
+       "id": "fc-2026-11-13-aq-01",
+       "q": "bénéfice",
+       "a": "profit"
+      },
+      {
+       "id": "fc-2026-11-13-aq-02",
+       "q": "raison d'être, finalité",
+       "a": "purpose"
+      },
+      {
+       "id": "fc-2026-11-13-aq-03",
+       "q": "remettre en cause",
+       "a": "to challenge"
+      },
+      {
+       "id": "fc-2026-11-13-aq-04",
+       "q": "long terme",
+       "a": "long term"
+      },
+      {
+       "id": "fc-2026-11-13-aq-05",
+       "q": "réputation",
+       "a": "reputation"
+      },
+      {
+       "id": "fc-2026-11-13-aq-06",
+       "q": "personnel",
+       "a": "staff"
+      },
+      {
+       "id": "fc-2026-11-13-aq-07",
+       "q": "statuts (d'une société)",
+       "a": "articles of association"
+      },
+      {
+       "id": "fc-2026-11-13-aq-08",
+       "q": "société cotée",
+       "a": "listed company"
+      }
+     ],
+     "qcm": [
+      {
+       "question": "According to the article, Friedman thought that managers should:",
+       "options": [
+        "give part of the profits to charity",
+        "focus on making money for the owners",
+        "share every decision with employees",
+        "protect the environment before anything else"
+       ],
+       "correctIndex": 1,
+       "explication": "L'argent appartient aux actionnaires, selon lui."
+      },
+      {
+       "question": "What did the PACTE law change in the Civil Code?",
+       "options": [
+        "companies must pay higher dividends",
+        "all companies must become sociétés à mission",
+        "companies must consider social and environmental issues",
+        "companies must publish their profits every month"
+       ],
+       "correctIndex": 2,
+       "explication": "Article 1833 du Code civil, depuis 2019."
+      },
+      {
+       "question": "What is the main criticism of purpose statements?",
+       "options": [
+        "they are too expensive to publish",
+        "they are forbidden by the Civil Code",
+        "they are only for small companies",
+        "they are easy to write but hard to measure"
+       ],
+       "correctIndex": 3,
+       "explication": "« Easy to write and hard to measure »."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "jour": "Samedi",
+   "message": "Examen court du bilan d'octobre à 9 h 05, puis révision de Partie double et Normalisation. Photos DCG 9 ch. 3 (p. 59-73) et DCG 1 ch. 4 (p. 69-80) avant demain 17 h.",
+   "seances": [
+    {
+     "id": "2026-11-14-rev",
+     "heure": "09:00-11:00",
+     "ue": null,
+     "type": "Révision",
+     "titre": "Révision espacée + examen court du bilan d'octobre",
+     "chapId": null,
+     "notion": "https://app.notion.com/p/3fc537c42d4b81fba1b5f47ea249692a",
+     "video": null,
+     "manuel": "Bonus, du plus court au plus long : DCG 9 ch. 4 ex. 1 « Jardiver » p. 99 (10 min) · DCG 9 ch. 2 QCM 11-15 p. 44 (10 min) · DCG 1 ch. 2 « Cas Loroit » p. 40-41 (20 min) · DCG 9 ch. 4 « Breiz Cycles » ≈ p. 100-101 (40 min) · DCG 9 ch. 2 cas guidé p. 44-45 (40 min)",
+     "resume": "## Révision du 14 nov.\n- 9 h 05 : **examen court du bilan d'octobre** (page Bilan, 40 min)\n- 🔴 **Partie double** (53) : emploi = débit, 101 seulement pour un apport, règlement 401/512, 404\n- 🟠 **Normalisation** (86) : coût historique, plus-value latente, prudence = perte probable\n- **3 piles** sur les flashcards, puis **mini-test** (6 QCM + 3 écritures)\n- **Vidéos de première révision** après les tests, seulement sur les notions hésitantes",
+     "flashcards": [
+      {
+       "id": "fc-2026-11-14-rev-01",
+       "q": "Emploi ou ressource : lequel va au débit ?",
+       "a": "L'emploi (ce que l'entreprise reçoit ou utilise) va au débit ; la ressource (d'où ça vient) va au crédit."
+      },
+      {
+       "id": "fc-2026-11-14-rev-02",
+       "q": "Léa paie par virement une facture fournisseur déjà enregistrée : écriture ?",
+       "a": "Débit 401 Fournisseurs / Crédit 512 Banque."
+      },
+      {
+       "id": "fc-2026-11-14-rev-03",
+       "q": "Pourquoi n'inscrit-on pas un terrain à sa valeur actuelle, plus élevée que son prix d'achat ?",
+       "a": "Coût historique : il reste à son coût d'acquisition ; la plus-value latente n'est pas réalisée et la prudence interdit de l'enregistrer."
+      },
+      {
+       "id": "fc-2026-11-14-rev-04",
+       "q": "Un client en redressement judiciaire : que fait-on à la clôture ?",
+       "a": "On tient compte de la perte probable dès la clôture (prudence) ; technique vue plus tard : la dépréciation de la créance."
+      },
+      {
+       "id": "fc-2026-11-14-rev-05",
+       "q": "Acheter un réchaud payé par chèque fait-il baisser le résultat ?",
+       "a": "Non : c'est une immobilisation (classe 2, bilan), pas une charge."
+      }
+     ],
+     "qcm": [
+      {
+       "question": "Hugo veut inscrire au bilan son terrain à sa valeur actuelle (180 000 €) au lieu de son prix d'achat (100 000 €) :",
+       "options": [
+        "c'est permis si un expert l'évalue",
+        "c'est obligatoire depuis la réforme de 2025",
+        "c'est interdit : coût historique et prudence",
+        "c'est permis seulement pour les sociétés non cotées"
+       ],
+       "correctIndex": 2,
+       "explication": "Le bien reste à son coût d'acquisition."
+      },
+      {
+       "question": "Un client en redressement judiciaire doit 5 000 € à la clôture :",
+       "options": [
+        "on attend qu'il ne paie pas pour agir",
+        "on annule la vente en totalité",
+        "on enregistre un produit supplémentaire",
+        "on tient compte de la perte probable dès la clôture"
+       ],
+       "correctIndex": 3,
+       "explication": "Principe de prudence."
+      },
+      {
+       "question": "Achat de marchandises 800 €, payé par chèque :",
+       "options": [
+        "débit 512, crédit 607",
+        "débit 607, crédit 401",
+        "débit 607, crédit 512",
+        "débit 401, crédit 512"
+       ],
+       "correctIndex": 2,
+       "explication": "Charge au débit, l'argent sort au crédit."
+      },
+      {
+       "question": "Léa paie par virement une facture fournisseur déjà enregistrée :",
+       "options": [
+        "débit 607, crédit 512",
+        "débit 512, crédit 401",
+        "débit 607, crédit 401",
+        "débit 401, crédit 512"
+       ],
+       "correctIndex": 3,
+       "explication": "La dette disparaît (débit 401), l'argent sort (crédit 512)."
+      },
+      {
+       "question": "Une écriture validée est fausse. On :",
+       "options": [
+        "passe une écriture de correction",
+        "supprime la ligne dans le logiciel",
+        "corrige directement le montant",
+        "attend l'inventaire de fin d'année"
+       ],
+       "correctIndex": 0,
+       "explication": "Une écriture validée ne s'efface pas."
+      },
+      {
+       "question": "En comptabilité d'engagement, une vente du 28 décembre payée le 10 janvier est un produit :",
+       "options": [
+        "de janvier, date du paiement",
+        "de décembre, date de la facture",
+        "réparti sur les deux mois",
+        "de l'exercice suivant uniquement"
+       ],
+       "correctIndex": 1,
+       "explication": "La créance naît en décembre."
+      }
+     ]
+    },
+    {
+     "id": "2026-11-14-bilan",
+     "heure": "09:05-09:45",
+     "ue": null,
+     "type": "Bilan",
+     "titre": "Bilan d'octobre · examen court (rattrapage)",
+     "chapId": null,
+     "notion": "https://app.notion.com/p/3fc537c42d4b81d1a254dca4fe68f88e",
+     "video": null,
+     "manuel": "Pas de manuel pendant l'examen ; bonus après la séance : voir la page Révision du 14 nov.",
+     "resume": "## Examen court du bilan d'octobre\n- 15 questions sur Définir la comptabilité, Profession comptable et Règle de droit\n- 5 QCM du complément (prudence, achat à crédit, QPC, EC/CAC, prime d'ancienneté)\n- Corrige-toi avec le corrigé de la page, puis relis le **carnet d'erreurs**\n- Score sur 100 dans la colonne « Score »",
+     "flashcards": [],
+     "qcm": [
+      {
+       "question": "Le principe qui impose de tenir compte d'une perte probable dès la clôture est :",
+       "options": [
+        "la prudence",
+        "le coût historique",
+        "la permanence des méthodes",
+        "l'importance relative"
+       ],
+       "correctIndex": 0,
+       "explication": "On n'attend pas la perte certaine."
+      },
+      {
+       "question": "L'achat de marchandises à crédit s'enregistre :",
+       "options": [
+        "débit 401, crédit 607",
+        "débit 512, crédit 401",
+        "débit 607, crédit 512",
+        "débit 607, crédit 401"
+       ],
+       "correctIndex": 3,
+       "explication": "Charge au débit, dette fournisseur au crédit."
+      },
+      {
+       "question": "Une partie qui conteste, pendant son procès, une loi déjà en vigueur utilise :",
+       "options": [
+        "le recours pour excès de pouvoir",
+        "le contrôle a priori de l'article 61",
+        "le contrôle de conventionnalité",
+        "la question prioritaire de constitutionnalité"
+       ],
+       "correctIndex": 3,
+       "explication": "La QPC (art. 61-1)."
+      },
+      {
+       "question": "Ce qui distingue l'expert-comptable du commissaire aux comptes :",
+       "options": [
+        "seul l'expert-comptable est tenu au secret",
+        "seul le CAC peut tenir la comptabilité",
+        "l'expert-comptable établit les comptes, le CAC les certifie",
+        "le CAC dépend de l'Ordre des experts-comptables"
+       ],
+       "correctIndex": 2,
+       "explication": "L'un construit, l'autre vérifie."
+      },
+      {
+       "question": "Depuis 2017, la prime d'ancienneté relève :",
+       "options": [
+        "du bloc 1, où la branche prime toujours",
+        "du bloc 2, où la branche peut verrouiller",
+        "de l'ordre public, sans dérogation",
+        "du bloc 3, où l'accord d'entreprise prime"
+       ],
+       "correctIndex": 3,
+       "explication": "Hors blocs 1 et 2 → bloc 3."
+      }
+     ]
+    },
+    {
+     "id": "2026-11-14-aq",
+     "heure": "11:15-11:45",
+     "ue": "UE12",
+     "type": "Anglais quotidien",
+     "titre": "Anglais quotidien · Brightwell's annual results",
+     "chapId": "ue12-1",
+     "notion": "https://app.notion.com/p/3fc537c42d4b81169c53d1def170af11",
+     "video": null,
+     "manuel": "Pas de manuel : article rédigé par Claude dans la page Notion",
+     "resume": "## Reading a company's results\n- **Revenue rose by** 12% **to** €48 million : *by* = l'écart, *to* = le niveau atteint\n- **Net profit fell from** €2.1m **to** €1.6m : **operating costs** en hausse\n- Investissement en machines → **cash position** en baisse, nouveau prêt\n- **Outlook** : croissance d'environ 8 %\n- Chiffre d'affaires, résultat et trésorerie sont **trois choses différentes**",
+     "flashcards": [
+      {
+       "id": "fc-2026-11-14-aq-01",
+       "q": "résultats annuels",
+       "a": "annual results"
+      },
+      {
+       "id": "fc-2026-11-14-aq-02",
+       "q": "chiffre d'affaires",
+       "a": "revenue (turnover)"
+      },
+      {
+       "id": "fc-2026-11-14-aq-03",
+       "q": "augmenter de (écart)",
+       "a": "to rise by"
+      },
+      {
+       "id": "fc-2026-11-14-aq-04",
+       "q": "baisser jusqu'à (niveau atteint)",
+       "a": "to fall to"
+      },
+      {
+       "id": "fc-2026-11-14-aq-05",
+       "q": "bénéfice net",
+       "a": "net profit"
+      },
+      {
+       "id": "fc-2026-11-14-aq-06",
+       "q": "charges d'exploitation",
+       "a": "operating costs"
+      },
+      {
+       "id": "fc-2026-11-14-aq-07",
+       "q": "trésorerie (disponible)",
+       "a": "cash position"
+      },
+      {
+       "id": "fc-2026-11-14-aq-08",
+       "q": "perspectives",
+       "a": "outlook"
+      }
+     ],
+     "qcm": [
+      {
+       "question": "Brightwell's revenue:",
+       "options": [
+        "fell by 12% to €48 million",
+        "stayed the same as last year",
+        "rose by 12% to €48 million",
+        "rose by 48% to €12 million"
+       ],
+       "correctIndex": 2,
+       "explication": "« Revenue rose by 12% to €48 million »."
+      },
+      {
+       "question": "Why did net profit fall?",
+       "options": [
+        "sales went down sharply",
+        "the company paid a large fine",
+        "the dividend was cut",
+        "operating costs went up (energy, new staff)"
+       ],
+       "correctIndex": 3,
+       "explication": "Énergie chère et 20 embauches."
+      },
+      {
+       "question": "In the article, “outlook” means:",
+       "options": [
+        "last year's results",
+        "what the company expects for the future",
+        "the total debt of the company",
+        "the annual report itself"
+       ],
+       "correctIndex": 1,
+       "explication": "Outlook = perspectives."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "jour": "Dimanche",
+   "message": "Repos ! Avant 17 h, envoie à Claude les photos des pages d'exercices demandées.",
+   "seances": []
+  }
+ ]
+}
